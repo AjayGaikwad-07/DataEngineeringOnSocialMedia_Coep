@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+.venv-1/
+venv/
+*.egg-info/
+
+# --- Environment / secrets ---
+.env
+*.env.local
+
+# --- Generated data (don't commit 1000 sample files or landed data) ---
+data/raw/*.json
+data/landing/*.jsonl
+!data/raw/.gitkeep
+!data/landing/.gitkeep
+
+# --- Dashboard output ---
+dashboard/output/*.png
+!dashboard/output/.gitkeep
+
+# --- Airflow runtime ---
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+airflow/webserver_config.py
+
+# --- Spark ---
+spark/*.ivy2/
+spark-warehouse/
+metastore_db/
+
+# --- Docker ---
+# (nothing to ignore here yet, docker-compose.yml is meant to be committed)
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
