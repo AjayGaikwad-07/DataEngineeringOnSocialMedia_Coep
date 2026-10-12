@@ -55,7 +55,7 @@ try:
     cur_admin.execute("DROP TABLE IF EXISTS hashtag_counts CASCADE")
     cur_admin.execute("DROP TABLE IF EXISTS posts CASCADE")
     cur_admin.execute("COMMIT")  # Ensure drop is committed
-    print("✓ Old tables dropped")
+    print("OK Old tables dropped")
 except Exception as e:
     print(f"Warning: {e}")
 
@@ -82,7 +82,7 @@ try:
         )
     """)
     cur_admin.execute("COMMIT")  # Ensure create is committed
-    print("✓ Tables created")
+    print("OK Tables created")
 except Exception as e:
     print(f"ERROR creating tables: {e}")
     cur_admin.close()
@@ -178,7 +178,7 @@ try:
                 ))
                 
                 if line_num % 500 == 0:
-                    print(f"  ✓ Processed {line_num} lines, {len(posts_data)} valid posts")
+                    print(f"  OK Processed {line_num} lines, {len(posts_data)} valid posts")
                     
             except json.JSONDecodeError as e:
                 skipped += 1
@@ -204,7 +204,7 @@ if posts_data:
             posts_data,
         )
         conn.commit()
-        print(f"✓ Inserted {len(posts_data)} posts successfully")
+        print(f"OK Inserted {len(posts_data)} posts successfully")
     except Exception as e:
         print(f"ERROR inserting posts: {e}")
         conn.rollback()
@@ -222,11 +222,11 @@ if hashtag_counts:
             hashtag_data,
         )
         conn.commit()
-        print(f"✓ Inserted {len(hashtag_counts)} hashtags successfully")
+        print(f"OK Inserted {len(hashtag_counts)} hashtags successfully")
     except Exception as e:
         print(f"ERROR inserting hashtags: {e}")
         conn.rollback()
     cur.close()
 
 conn.close()
-print("\n✓ Pipeline complete!")
+print("\nOK Pipeline complete!")

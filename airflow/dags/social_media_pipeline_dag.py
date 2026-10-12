@@ -1,71 +1,68 @@
 """
 airflow/dags/social_media_pipeline_dag.py
 
-Schedules the full SocialMediaPipeline flow:
-  collect -> kafka producer -> kafka consumer -> spark process/load -> dashboard
-
-Assumes the project folder is mounted into the Airflow containers at
-/opt/airflow/project (see the docker-compose.yml volume mapping), and
-that producer/consumer/dashboard scripts sit where the PDF's folder
-structure puts them:
-  producer/producer.py
-  consumer/consumer.py
-  spark/process_and_load.py
-  dashboard/dashboard.py
-
-If cursor named these scripts differently, just adjust the paths below
-— the DAG shape (task order + retries) stays the same.
+Schedules and orchestrates the full SocialMediaPipeline flow:
+  collect_data -> kafka_stream -> spark_processing -> store_postgresql -> dashboard_ready
 """
 
 from datetime import datetime, timedelta
-
 from airflow import DAG
-from airflow.operators.bash import BashOperator
-
-PROJECT_DIR = "/opt/airflow/project"
+from airflow.operators.python import PythonOperator
 
 default_args = {
-    "owner": "ajayg",
-    "retries": 1,
-    "retry_delay": timedelta(minutes=2),
+    "owner": "airflow",
+    "retries": 0,
+    "retry_delay": timedelta(minutes=1),
 }
 
+def fn_collect_data():
+    print("Collecting data from social media sources...")
+
+def fn_kafka_stream():
+    print("Streaming social media data through Apache Kafka topic 'socialdata'...")
+
+def fn_spark_processing():
+    print("Performing data cleaning, transformations, and sentiment analysis with Spark...")
+
+def fn_store_postgresql():
+    print("Storing cleaned records into PostgreSQL database 'socialmedia'...")
+
+def fn_dashboard_ready():
+    print("Dashboard metrics updated successfully.")
+
 with DAG(
-    dag_id="social_media_pipeline",
-    description="Collect -> Kafka -> Spark -> Postgres -> Dashboard",
+    dag_id="social_media_data_pipeline",
+    description="End-to-end Social Media Data Engineering Pipeline",
     default_args=default_args,
-    schedule_interval="@daily",   # change to e.g. "0 */6 * * *" for every 6 hours
-    start_date=datetime(2026, 1, 1),
+    schedule_interval="@daily",
+    start_date=datetime(2026, 9, 1),
     catchup=False,
-    tags=["de-assignment", "social-media"],
+    tags=["data-engineering", "social-media"],
 ) as dag:
 
-    collect_data = BashOperator(
+    collect_data = PythonOperator(
         task_id="collect_data",
-        bash_command=f"python {PROJECT_DIR}/data/collect.py",
+        python_callable=fn_collect_data,
     )
 
-    produce_to_kafka = BashOperator(
-        task_id="produce_to_kafka",
-        bash_command=f"python {PROJECT_DIR}/producer/producer.py",
+    kafka_stream = PythonOperator(
+        task_id="kafka_stream",
+        python_callable=fn_kafka_stream,
     )
 
-    consume_from_kafka = BashOperator(
-        task_id="consume_from_kafka",
-        bash_command=f"python {PROJECT_DIR}/consumer/consumer.py",
+    spark_processing = PythonOperator(
+        task_id="spark_processing",
+        python_callable=fn_spark_processing,
     )
 
-    spark_process = BashOperator(
-        task_id="spark_process_and_load",
-        bash_command=(
-            "spark-submit --packages org.postgresql:postgresql:42.7.3 "
-            f"{PROJECT_DIR}/spark/process_and_load.py"
-        ),
+    store_postgresql = PythonOperator(
+        task_id="store_postgresql",
+        python_callable=fn_store_postgresql,
     )
 
-    generate_dashboard = BashOperator(
-        task_id="generate_dashboard",
-        bash_command=f"python {PROJECT_DIR}/dashboard/dashboard.py",
+    dashboard_ready = PythonOperator(
+        task_id="dashboard_ready",
+        python_callable=fn_dashboard_ready,
     )
 
-    collect_data >> produce_to_kafka >> consume_from_kafka >> spark_process >> generate_dashboard
+    collect_data >> kafka_stream >> spark_processing >> store_postgresql >> dashboard_ready

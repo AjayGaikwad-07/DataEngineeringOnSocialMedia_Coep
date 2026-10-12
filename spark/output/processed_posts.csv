@@ -1,0 +1,1001 @@
+id,username,text,likes,retweets,created_at,post_hour,engagement,sentiment_score,sentiment_label
+10001,User75,"Just built a great machine learning model, loving the results #AI #MachineLearning",29,129,2026-08-17T15:25:00,15,158,0.65,positive
+10002,User71,AI is transforming the future of deep learning and it's amazing #BigData #MachineLearning,217,15,2026-08-05T03:04:00,3,232,0.65,positive
+10003,User75,Reading about AI today #Automation,203,12,2026-08-27T06:21:00,6,215,0.05,positive
+10004,User16,Reading about data engineering today #DataScience #Kafka #BigData,292,78,2026-08-25T14:34:00,14,370,0.05,positive
+10005,User13,"Not impressed with the latest deep learning tool, disappointing #MachineLearning",280,16,2026-08-17T22:45:00,22,296,-0.6,negative
+10006,User60,"Not impressed with the latest generative AI tool, disappointing #Python",299,116,2026-08-15T07:07:00,7,415,-0.6,negative
+10007,User39,"Just built a great machine learning model, loving the results #DeepLearning",268,126,2026-08-27T03:25:00,3,394,0.65,positive
+10008,User54,Attending a webinar on machine learning this week #Automation #MachineLearning,84,87,2026-08-24T07:10:00,7,171,0.05,positive
+10009,User89,"Huge breakthrough in neural networks today, this is fantastic #AI #MachineLearning",179,127,2026-08-16T11:30:00,11,306,0.65,positive
+10010,User90,This automation pipeline keeps failing and it's frustrating #MachineLearning,340,16,2026-08-22T13:50:00,13,356,-0.6,negative
+10011,User3,"generative AI keeps getting better every year, so excited #Automation #Python #Kafka",481,118,2026-08-16T19:01:00,19,599,0.65,positive
+10012,User95,AI is transforming the future of automation and it's amazing #AI #DeepLearning,126,101,2026-08-06T21:16:00,21,227,0.65,positive
+10013,User71,"Huge breakthrough in robotics today, this is fantastic #DataScience",142,35,2026-08-19T06:42:00,6,177,0.65,positive
+10014,User11,Discussion thread on deep learning trends #BigData #Spark #Automation,90,38,2026-08-07T20:50:00,20,128,0.05,positive
+10015,User37,"Just built a great data engineering model, loving the results #Python",2,37,2026-08-12T22:59:00,22,39,0.65,positive
+10016,User116,"AI keeps getting better every year, so excited #Automation #Spark #DataScience",445,143,2026-08-21T18:46:00,18,588,0.65,positive
+10017,User25,"Huge breakthrough in generative AI today, this is fantastic #MachineLearning #Python",34,53,2026-08-03T19:59:00,19,87,0.65,positive
+10018,User73,AI is transforming the future of machine learning and it's amazing #Automation #AI,77,137,2026-08-01T00:15:00,0,214,0.65,positive
+10019,User82,"generative AI keeps getting better every year, so excited #AI #MachineLearning #DeepLearning",129,88,2026-08-07T18:15:00,18,217,0.65,positive
+10020,User62,This robotics pipeline keeps failing and it's frustrating #MachineLearning,247,79,2026-08-22T04:59:00,4,326,-0.6,negative
+10021,User3,AI is transforming the future of data engineering and it's amazing #Spark #Kafka #Python,105,135,2026-08-24T11:58:00,11,240,0.65,positive
+10022,User46,AI is transforming the future of neural networks and it's amazing #Kafka #MachineLearning #Automation,395,57,2026-08-08T14:27:00,14,452,0.65,positive
+10023,User95,"Not impressed with the latest deep learning tool, disappointing #DeepLearning #Automation",411,58,2026-08-19T05:39:00,5,469,-0.6,negative
+10024,User34,"Huge breakthrough in automation today, this is fantastic #AI #Automation",99,88,2026-08-22T11:48:00,11,187,0.65,positive
+10025,User61,"machine learning keeps getting better every year, so excited #MachineLearning #DeepLearning",100,86,2026-08-11T07:46:00,7,186,0.65,positive
+10026,User101,AI is transforming the future of machine learning and it's amazing #Spark #MachineLearning,364,51,2026-08-18T16:23:00,16,415,0.65,positive
+10027,User52,Worried about AI replacing jobs in generative AI #Spark #MachineLearning,380,21,2026-08-22T01:53:00,1,401,-0.6,negative
+10028,User116,New paper published on data engineering #AI,238,37,2026-08-27T21:19:00,21,275,0.05,positive
+10029,User2,"Not impressed with the latest data engineering tool, disappointing #Spark #DataScience",409,26,2026-08-01T23:22:00,23,435,-0.6,negative
+10030,User28,Worried about AI replacing jobs in AI #DeepLearning #Automation,149,128,2026-08-12T11:04:00,11,277,-0.6,negative
+10031,User117,"data engineering keeps getting better every year, so excited #OpenAI #BigData",378,90,2026-08-03T18:31:00,18,468,0.65,positive
+10032,User100,Attending a webinar on AI this week #DataScience #OpenAI #Automation,93,1,2026-08-21T00:44:00,0,94,0.05,positive
+10033,User93,New paper published on robotics #DataScience,61,142,2026-08-29T04:13:00,4,203,0.05,positive
+10034,User25,"Huge breakthrough in AI today, this is fantastic #OpenAI",141,10,2026-08-12T07:25:00,7,151,0.65,positive
+10035,User65,Attending a webinar on neural networks this week #AI #MachineLearning #Python,310,131,2026-08-28T21:02:00,21,441,0.05,positive
+10036,User32,"robotics keeps getting better every year, so excited #OpenAI #Automation",357,133,2026-08-24T02:36:00,2,490,0.65,positive
+10037,User51,Discussion thread on generative AI trends #DeepLearning #Python #DataScience,226,80,2026-08-06T12:50:00,12,306,0.05,positive
+10038,User115,"Just built a great automation model, loving the results #MachineLearning #DeepLearning",397,39,2026-08-06T13:38:00,13,436,0.65,positive
+10039,User29,Discussion thread on data engineering trends #Kafka,382,24,2026-08-22T06:53:00,6,406,0.05,positive
+10040,User66,"Huge breakthrough in data engineering today, this is fantastic #DeepLearning",206,86,2026-08-20T15:20:00,15,292,0.65,positive
+10041,User71,"AI keeps getting better every year, so excited #MachineLearning #Spark",234,112,2026-08-16T09:09:00,9,346,0.65,positive
+10042,User118,Attending a webinar on machine learning this week #OpenAI #Kafka,403,58,2026-08-06T03:15:00,3,461,0.05,positive
+10043,User116,Reading about automation today #Kafka,398,46,2026-08-02T19:14:00,19,444,0.05,positive
+10044,User118,"Just built a great data engineering model, loving the results #Kafka #BigData",263,146,2026-08-25T10:06:00,10,409,0.65,positive
+10045,User55,This AI pipeline keeps failing and it's frustrating #Kafka,458,18,2026-08-09T08:15:00,8,476,-0.6,negative
+10046,User34,AI is transforming the future of deep learning and it's amazing #MachineLearning #Kafka #Automation,441,31,2026-08-04T00:46:00,0,472,0.65,positive
+10047,User91,This AI pipeline keeps failing and it's frustrating #BigData #Kafka #DataScience,122,28,2026-08-24T23:31:00,23,150,-0.6,negative
+10048,User81,Discussion thread on deep learning trends #DataScience,156,135,2026-08-15T04:46:00,4,291,0.05,positive
+10049,User103,Discussion thread on automation trends #OpenAI #DataScience,9,64,2026-08-16T19:01:00,19,73,0.05,positive
+10050,User120,AI is transforming the future of robotics and it's amazing #OpenAI #Automation #DeepLearning,228,27,2026-08-12T04:20:00,4,255,0.65,positive
+10051,User30,Attending a webinar on automation this week #Python #OpenAI #BigData,175,50,2026-08-10T19:02:00,19,225,0.05,positive
+10052,User10,New paper published on data engineering #Spark #AI,320,65,2026-08-01T15:34:00,15,385,0.05,positive
+10053,User32,AI is transforming the future of automation and it's amazing #BigData,354,75,2026-08-28T06:01:00,6,429,0.65,positive
+10054,User34,"Just built a great robotics model, loving the results #Kafka",186,84,2026-08-01T03:57:00,3,270,0.65,positive
+10055,User46,Discussion thread on automation trends #AI,93,0,2026-08-10T21:58:00,21,93,0.05,positive
+10056,User65,AI is transforming the future of deep learning and it's amazing #Kafka #OpenAI,397,1,2026-08-12T07:04:00,7,398,0.65,positive
+10057,User3,AI is transforming the future of AI and it's amazing #BigData,153,77,2026-08-18T22:19:00,22,230,0.65,positive
+10058,User20,Worried about AI replacing jobs in neural networks #OpenAI #DataScience #BigData,145,37,2026-08-23T11:47:00,11,182,-0.6,negative
+10059,User4,"Huge breakthrough in deep learning today, this is fantastic #OpenAI #DataScience #AI",21,34,2026-08-04T20:56:00,20,55,0.65,positive
+10060,User3,Worried about AI replacing jobs in AI #Python #OpenAI,320,136,2026-08-29T13:41:00,13,456,-0.6,negative
+10061,User115,Attending a webinar on machine learning this week #AI #Python,274,23,2026-08-23T21:22:00,21,297,0.05,positive
+10062,User94,Reading about automation today #Python #Kafka #MachineLearning,387,52,2026-08-11T16:26:00,16,439,0.05,positive
+10063,User99,"Huge breakthrough in robotics today, this is fantastic #BigData #MachineLearning",23,50,2026-08-14T01:49:00,1,73,0.65,positive
+10064,User62,"Just built a great data engineering model, loving the results #Kafka #Automation",31,124,2026-08-01T13:37:00,13,155,0.65,positive
+10065,User60,AI is transforming the future of automation and it's amazing #DeepLearning #Python #Kafka,238,30,2026-08-22T03:32:00,3,268,0.65,positive
+10066,User59,New paper published on AI #MachineLearning #Python,39,129,2026-08-14T04:18:00,4,168,0.05,positive
+10067,User75,Attending a webinar on deep learning this week #BigData #DeepLearning,46,36,2026-08-04T09:29:00,9,82,0.05,positive
+10068,User91,Discussion thread on automation trends #DataScience #OpenAI,186,59,2026-08-06T03:04:00,3,245,0.05,positive
+10069,User88,This AI pipeline keeps failing and it's frustrating #AI #DataScience,230,103,2026-08-23T09:03:00,9,333,-0.6,negative
+10070,User108,"Just built a great neural networks model, loving the results #Spark #BigData",169,0,2026-08-06T12:03:00,12,169,0.65,positive
+10071,User33,"AI keeps getting better every year, so excited #MachineLearning #DeepLearning",190,16,2026-08-14T04:34:00,4,206,0.65,positive
+10072,User14,AI is transforming the future of AI and it's amazing #BigData #Kafka,26,73,2026-08-13T18:31:00,18,99,0.65,positive
+10073,User41,Worried about AI replacing jobs in generative AI #Kafka,97,95,2026-08-24T06:06:00,6,192,-0.6,negative
+10074,User7,Attending a webinar on deep learning this week #BigData,477,105,2026-08-04T16:00:00,16,582,0.05,positive
+10075,User61,Worried about AI replacing jobs in data engineering #Kafka #Python #AI,212,87,2026-08-08T18:31:00,18,299,-0.6,negative
+10076,User72,"automation keeps getting better every year, so excited #Kafka #BigData #DeepLearning",342,100,2026-08-22T23:45:00,23,442,0.65,positive
+10077,User29,"Just built a great robotics model, loving the results #DeepLearning",231,85,2026-08-26T01:10:00,1,316,0.65,positive
+10078,User12,Attending a webinar on deep learning this week #DataScience #OpenAI,89,87,2026-08-12T02:36:00,2,176,0.05,positive
+10079,User26,This automation pipeline keeps failing and it's frustrating #Spark,454,5,2026-08-26T22:10:00,22,459,-0.6,negative
+10080,User35,Attending a webinar on deep learning this week #BigData #OpenAI,173,15,2026-08-18T03:38:00,3,188,0.05,positive
+10081,User35,"Not impressed with the latest deep learning tool, disappointing #DataScience #OpenAI",459,63,2026-08-05T05:08:00,5,522,-0.6,negative
+10082,User55,"Huge breakthrough in data engineering today, this is fantastic #Kafka #AI",363,121,2026-08-02T11:13:00,11,484,0.65,positive
+10083,User110,Attending a webinar on generative AI this week #MachineLearning,239,114,2026-08-25T00:33:00,0,353,0.05,positive
+10084,User88,AI is transforming the future of data engineering and it's amazing #DataScience,55,117,2026-08-24T18:33:00,18,172,0.65,positive
+10085,User118,AI is transforming the future of deep learning and it's amazing #DataScience,19,77,2026-08-26T21:55:00,21,96,0.65,positive
+10086,User68,Discussion thread on machine learning trends #BigData #MachineLearning #OpenAI,483,149,2026-08-14T16:03:00,16,632,0.05,positive
+10087,User69,"AI keeps getting better every year, so excited #Automation",154,117,2026-08-01T11:25:00,11,271,0.65,positive
+10088,User53,"deep learning keeps getting better every year, so excited #DeepLearning #Python #Automation",360,78,2026-08-02T07:58:00,7,438,0.65,positive
+10089,User86,"Just built a great automation model, loving the results #BigData #MachineLearning",217,94,2026-08-11T08:51:00,8,311,0.65,positive
+10090,User1,AI is transforming the future of generative AI and it's amazing #Spark #BigData #Automation,408,74,2026-08-10T00:21:00,0,482,0.65,positive
+10091,User99,Reading about deep learning today #Python,419,49,2026-08-15T04:28:00,4,468,0.05,positive
+10092,User24,"Just built a great robotics model, loving the results #Kafka #MachineLearning",458,57,2026-08-28T18:23:00,18,515,0.65,positive
+10093,User7,"Not impressed with the latest data engineering tool, disappointing #Automation",109,6,2026-08-18T21:45:00,21,115,-0.6,negative
+10094,User58,New paper published on data engineering #AI #Automation,459,80,2026-08-18T21:36:00,21,539,0.05,positive
+10095,User84,Reading about deep learning today #Spark,479,134,2026-08-09T10:37:00,10,613,0.05,positive
+10096,User22,Reading about neural networks today #BigData #Spark,55,0,2026-08-21T03:15:00,3,55,0.05,positive
+10097,User46,AI is transforming the future of deep learning and it's amazing #BigData #MachineLearning,393,79,2026-08-18T07:12:00,7,472,0.65,positive
+10098,User48,Attending a webinar on robotics this week #AI,277,114,2026-08-09T21:46:00,21,391,0.05,positive
+10099,User99,"deep learning keeps getting better every year, so excited #Python #AI #BigData",207,10,2026-08-29T11:06:00,11,217,0.65,positive
+10100,User96,"Huge breakthrough in automation today, this is fantastic #AI",32,86,2026-08-09T20:55:00,20,118,0.65,positive
+10101,User1,"automation keeps getting better every year, so excited #AI #Kafka #Spark",369,16,2026-08-14T12:50:00,12,385,0.65,positive
+10102,User102,"Just built a great robotics model, loving the results #Python",128,110,2026-08-18T14:10:00,14,238,0.65,positive
+10103,User78,New paper published on automation #DataScience #AI,120,83,2026-08-07T21:16:00,21,203,0.05,positive
+10104,User97,Attending a webinar on deep learning this week #Automation #MachineLearning,81,63,2026-08-18T19:49:00,19,144,0.05,positive
+10105,User55,AI is transforming the future of neural networks and it's amazing #OpenAI #Automation,452,26,2026-08-08T07:31:00,7,478,0.65,positive
+10106,User91,Discussion thread on generative AI trends #MachineLearning #DeepLearning #Automation,497,114,2026-08-23T16:28:00,16,611,0.05,positive
+10107,User38,"Just built a great machine learning model, loving the results #Python #DeepLearning",143,145,2026-08-14T09:02:00,9,288,0.65,positive
+10108,User32,"deep learning keeps getting better every year, so excited #Kafka #DeepLearning #Python",120,39,2026-08-09T10:52:00,10,159,0.65,positive
+10109,User65,"Just built a great automation model, loving the results #MachineLearning #BigData",269,59,2026-08-12T04:38:00,4,328,0.65,positive
+10110,User114,Worried about AI replacing jobs in AI #Python #AI #MachineLearning,419,59,2026-08-22T14:34:00,14,478,-0.6,negative
+10111,User7,Discussion thread on deep learning trends #Kafka,97,149,2026-08-06T10:12:00,10,246,0.05,positive
+10112,User34,AI is transforming the future of robotics and it's amazing #OpenAI #DataScience,396,1,2026-08-28T10:40:00,10,397,0.65,positive
+10113,User19,"neural networks keeps getting better every year, so excited #AI",22,52,2026-08-16T11:23:00,11,74,0.65,positive
+10114,User24,Reading about generative AI today #DeepLearning #AI #Spark,317,79,2026-08-17T22:06:00,22,396,0.05,positive
+10115,User13,AI is transforming the future of machine learning and it's amazing #OpenAI #Python,407,101,2026-08-19T13:49:00,13,508,0.65,positive
+10116,User53,New paper published on generative AI #OpenAI #MachineLearning #DataScience,145,78,2026-08-13T08:11:00,8,223,0.05,positive
+10117,User3,AI is transforming the future of generative AI and it's amazing #Automation #Spark,442,93,2026-08-19T22:52:00,22,535,0.65,positive
+10118,User55,This generative AI pipeline keeps failing and it's frustrating #BigData #DeepLearning #AI,58,23,2026-08-08T03:00:00,3,81,-0.6,negative
+10119,User71,"AI keeps getting better every year, so excited #DataScience #Automation",72,101,2026-08-03T08:27:00,8,173,0.65,positive
+10120,User21,"neural networks keeps getting better every year, so excited #OpenAI #DataScience #Automation",266,43,2026-08-13T21:26:00,21,309,0.65,positive
+10121,User108,Reading about automation today #Python #DeepLearning,482,11,2026-08-06T18:20:00,18,493,0.05,positive
+10122,User89,Attending a webinar on machine learning this week #AI #BigData,422,41,2026-08-29T05:34:00,5,463,0.05,positive
+10123,User28,Worried about AI replacing jobs in data engineering #BigData #DeepLearning #Python,21,102,2026-08-26T17:35:00,17,123,-0.6,negative
+10124,User93,New paper published on data engineering #Spark #MachineLearning,417,49,2026-08-12T05:51:00,5,466,0.05,positive
+10125,User109,AI is transforming the future of robotics and it's amazing #Spark #MachineLearning #BigData,321,78,2026-08-26T00:48:00,0,399,0.65,positive
+10126,User65,This neural networks pipeline keeps failing and it's frustrating #DeepLearning #BigData #OpenAI,224,45,2026-08-21T08:00:00,8,269,-0.6,negative
+10127,User104,"Huge breakthrough in robotics today, this is fantastic #DeepLearning #Python",242,102,2026-08-09T04:08:00,4,344,0.65,positive
+10128,User65,"Just built a great machine learning model, loving the results #BigData #Spark",261,10,2026-08-21T02:44:00,2,271,0.65,positive
+10129,User97,"Just built a great machine learning model, loving the results #Spark",258,96,2026-08-03T11:16:00,11,354,0.65,positive
+10130,User17,New paper published on machine learning #MachineLearning,453,125,2026-08-09T19:34:00,19,578,0.05,positive
+10131,User42,"Just built a great automation model, loving the results #DeepLearning #MachineLearning #Spark",459,70,2026-08-08T05:24:00,5,529,0.65,positive
+10132,User76,Attending a webinar on robotics this week #Kafka,134,129,2026-08-10T11:32:00,11,263,0.05,positive
+10133,User21,"data engineering keeps getting better every year, so excited #DeepLearning",325,71,2026-08-19T08:41:00,8,396,0.65,positive
+10134,User7,Attending a webinar on machine learning this week #Kafka,325,92,2026-08-25T03:41:00,3,417,0.05,positive
+10135,User34,Attending a webinar on generative AI this week #OpenAI #MachineLearning #Kafka,192,94,2026-08-17T21:44:00,21,286,0.05,positive
+10136,User79,This deep learning pipeline keeps failing and it's frustrating #MachineLearning #Python,380,12,2026-08-09T01:03:00,1,392,-0.6,negative
+10137,User29,"AI keeps getting better every year, so excited #Automation #Spark",76,74,2026-08-02T12:54:00,12,150,0.65,positive
+10138,User63,This AI pipeline keeps failing and it's frustrating #OpenAI #Spark,116,11,2026-08-07T00:12:00,0,127,-0.6,negative
+10139,User29,AI is transforming the future of neural networks and it's amazing #Spark #Kafka #MachineLearning,211,149,2026-08-25T07:23:00,7,360,0.65,positive
+10140,User18,"Just built a great robotics model, loving the results #Spark",7,62,2026-08-08T05:15:00,5,69,0.65,positive
+10141,User52,Attending a webinar on data engineering this week #MachineLearning,415,67,2026-08-13T06:39:00,6,482,0.05,positive
+10142,User22,Reading about robotics today #OpenAI #Spark #Python,462,0,2026-08-12T07:25:00,7,462,0.05,positive
+10143,User117,AI is transforming the future of data engineering and it's amazing #DataScience #DeepLearning,398,26,2026-08-03T15:45:00,15,424,0.65,positive
+10144,User78,"Just built a great deep learning model, loving the results #BigData",329,129,2026-08-24T14:04:00,14,458,0.65,positive
+10145,User81,This machine learning pipeline keeps failing and it's frustrating #DataScience #OpenAI #Kafka,24,122,2026-08-14T15:58:00,15,146,-0.6,negative
+10146,User58,Reading about machine learning today #BigData #Python,89,57,2026-08-30T20:00:00,20,146,0.05,positive
+10147,User115,Discussion thread on machine learning trends #AI,383,67,2026-08-16T06:28:00,6,450,0.05,positive
+10148,User119,Discussion thread on automation trends #OpenAI #BigData #Kafka,494,55,2026-08-30T05:14:00,5,549,0.05,positive
+10149,User21,AI is transforming the future of deep learning and it's amazing #Kafka,382,83,2026-08-10T05:29:00,5,465,0.65,positive
+10150,User118,"Huge breakthrough in generative AI today, this is fantastic #Automation #DeepLearning",354,137,2026-08-29T16:53:00,16,491,0.65,positive
+10151,User114,"Not impressed with the latest deep learning tool, disappointing #AI #Automation #BigData",157,54,2026-08-26T22:57:00,22,211,-0.6,negative
+10152,User14,AI is transforming the future of AI and it's amazing #DataScience #Automation #AI,318,41,2026-08-06T02:13:00,2,359,0.65,positive
+10153,User82,"Just built a great data engineering model, loving the results #AI #Automation #OpenAI",21,17,2026-08-30T06:55:00,6,38,0.65,positive
+10154,User32,Reading about generative AI today #Spark #DeepLearning #MachineLearning,105,52,2026-08-05T20:59:00,20,157,0.05,positive
+10155,User13,AI is transforming the future of machine learning and it's amazing #MachineLearning #Kafka #Python,405,52,2026-08-07T00:53:00,0,457,0.65,positive
+10156,User120,"neural networks keeps getting better every year, so excited #Kafka #AI",144,12,2026-08-12T16:23:00,16,156,0.65,positive
+10157,User80,Discussion thread on robotics trends #Automation #OpenAI,381,7,2026-08-14T02:11:00,2,388,0.05,positive
+10158,User91,Reading about neural networks today #OpenAI #MachineLearning,24,137,2026-08-22T08:12:00,8,161,0.05,positive
+10159,User56,"Not impressed with the latest automation tool, disappointing #Automation",0,134,2026-08-08T18:05:00,18,134,-0.6,negative
+10160,User63,AI is transforming the future of robotics and it's amazing #Spark,355,47,2026-08-05T08:31:00,8,402,0.65,positive
+10161,User64,Discussion thread on deep learning trends #Kafka #DataScience #Automation,84,28,2026-08-11T12:53:00,12,112,0.05,positive
+10162,User13,Reading about neural networks today #OpenAI #MachineLearning,205,101,2026-08-17T04:25:00,4,306,0.05,positive
+10163,User34,Reading about deep learning today #AI #Spark,219,139,2026-08-14T19:06:00,19,358,0.05,positive
+10164,User75,This AI pipeline keeps failing and it's frustrating #DeepLearning #Python #DataScience,167,133,2026-08-16T20:38:00,20,300,-0.6,negative
+10165,User89,"Huge breakthrough in robotics today, this is fantastic #OpenAI #Spark #DataScience",395,65,2026-08-20T23:17:00,23,460,0.65,positive
+10166,User39,Worried about AI replacing jobs in deep learning #Python #DeepLearning,386,39,2026-08-13T04:09:00,4,425,-0.6,negative
+10167,User42,New paper published on data engineering #Spark #OpenAI #Automation,489,48,2026-08-11T18:00:00,18,537,0.05,positive
+10168,User20,AI is transforming the future of deep learning and it's amazing #MachineLearning,75,77,2026-08-18T11:41:00,11,152,0.65,positive
+10169,User27,Attending a webinar on machine learning this week #DeepLearning #MachineLearning,453,99,2026-08-13T18:42:00,18,552,0.05,positive
+10170,User3,Worried about AI replacing jobs in automation #BigData #DeepLearning,72,65,2026-08-22T02:01:00,2,137,-0.6,negative
+10171,User76,This generative AI pipeline keeps failing and it's frustrating #DeepLearning,383,107,2026-08-27T02:56:00,2,490,-0.6,negative
+10172,User34,New paper published on generative AI #DataScience #MachineLearning #Python,321,25,2026-08-15T05:53:00,5,346,0.05,positive
+10173,User59,New paper published on generative AI #DataScience #Kafka,10,104,2026-08-22T23:17:00,23,114,0.05,positive
+10174,User107,"Not impressed with the latest AI tool, disappointing #Spark",250,27,2026-08-18T16:34:00,16,277,-0.6,negative
+10175,User109,"Just built a great neural networks model, loving the results #DeepLearning",294,116,2026-08-05T14:24:00,14,410,0.65,positive
+10176,User44,"Not impressed with the latest neural networks tool, disappointing #OpenAI #AI",210,116,2026-08-24T17:49:00,17,326,-0.6,negative
+10177,User8,"Just built a great neural networks model, loving the results #OpenAI #MachineLearning",129,70,2026-08-30T00:23:00,0,199,0.65,positive
+10178,User81,AI is transforming the future of generative AI and it's amazing #MachineLearning,357,90,2026-08-20T03:20:00,3,447,0.65,positive
+10179,User29,Worried about AI replacing jobs in generative AI #Kafka,410,100,2026-08-24T23:42:00,23,510,-0.6,negative
+10180,User83,Worried about AI replacing jobs in deep learning #MachineLearning,287,57,2026-08-22T08:26:00,8,344,-0.6,negative
+10181,User84,New paper published on automation #BigData #Python,64,120,2026-08-25T22:51:00,22,184,0.05,positive
+10182,User62,"Just built a great generative AI model, loving the results #BigData #Kafka",1,71,2026-08-09T11:02:00,11,72,0.65,positive
+10183,User82,"generative AI keeps getting better every year, so excited #Python #Automation",43,92,2026-08-29T08:52:00,8,135,0.65,positive
+10184,User68,"neural networks keeps getting better every year, so excited #AI #MachineLearning",425,88,2026-08-07T09:21:00,9,513,0.65,positive
+10185,User78,Worried about AI replacing jobs in automation #AI #DeepLearning #MachineLearning,51,148,2026-08-12T09:05:00,9,199,-0.6,negative
+10186,User27,"Just built a great neural networks model, loving the results #Python",462,103,2026-08-07T22:45:00,22,565,0.65,positive
+10187,User89,New paper published on deep learning #Automation #MachineLearning #Kafka,109,135,2026-08-23T12:05:00,12,244,0.05,positive
+10188,User30,"Huge breakthrough in automation today, this is fantastic #MachineLearning #OpenAI #Automation",423,35,2026-08-20T01:42:00,1,458,0.65,positive
+10189,User90,"Not impressed with the latest robotics tool, disappointing #Python",251,63,2026-08-07T13:44:00,13,314,-0.6,negative
+10190,User64,"Not impressed with the latest robotics tool, disappointing #AI #DataScience #Spark",340,75,2026-08-26T14:28:00,14,415,-0.6,negative
+10191,User47,Discussion thread on data engineering trends #BigData #MachineLearning,325,7,2026-08-29T23:49:00,23,332,0.05,positive
+10192,User5,AI is transforming the future of robotics and it's amazing #Spark #MachineLearning #Python,109,106,2026-08-07T13:49:00,13,215,0.65,positive
+10193,User100,This neural networks pipeline keeps failing and it's frustrating #Spark,269,141,2026-08-22T14:19:00,14,410,-0.6,negative
+10194,User71,New paper published on generative AI #BigData #Spark,26,74,2026-08-12T10:47:00,10,100,0.05,positive
+10195,User45,"Huge breakthrough in automation today, this is fantastic #Spark #OpenAI",499,52,2026-08-24T01:09:00,1,551,0.65,positive
+10196,User76,Reading about automation today #DeepLearning #Spark,498,22,2026-08-06T19:20:00,19,520,0.05,positive
+10197,User39,Reading about AI today #OpenAI #BigData,55,1,2026-08-19T03:14:00,3,56,0.05,positive
+10198,User87,"Huge breakthrough in data engineering today, this is fantastic #AI #OpenAI #BigData",356,21,2026-08-29T12:38:00,12,377,0.65,positive
+10199,User100,"Huge breakthrough in AI today, this is fantastic #DataScience #MachineLearning #Automation",51,3,2026-08-20T04:28:00,4,54,0.65,positive
+10200,User54,"Just built a great automation model, loving the results #OpenAI #Kafka",17,81,2026-08-09T09:49:00,9,98,0.65,positive
+10201,User100,AI is transforming the future of AI and it's amazing #Automation #OpenAI,414,107,2026-08-06T09:48:00,9,521,0.65,positive
+10202,User76,This generative AI pipeline keeps failing and it's frustrating #MachineLearning #AI,480,39,2026-08-28T00:39:00,0,519,-0.6,negative
+10203,User81,This deep learning pipeline keeps failing and it's frustrating #MachineLearning #Automation #Python,7,109,2026-08-07T21:46:00,21,116,-0.6,negative
+10204,User61,AI is transforming the future of machine learning and it's amazing #DeepLearning,9,70,2026-08-06T20:52:00,20,79,0.65,positive
+10205,User94,New paper published on neural networks #DataScience #AI,388,21,2026-08-07T14:09:00,14,409,0.05,positive
+10206,User8,"Huge breakthrough in AI today, this is fantastic #Kafka #AI",7,20,2026-08-01T12:27:00,12,27,0.65,positive
+10207,User48,"AI keeps getting better every year, so excited #Automation #DataScience #Python",485,147,2026-08-15T09:27:00,9,632,0.65,positive
+10208,User21,Attending a webinar on neural networks this week #DataScience #Automation #MachineLearning,322,106,2026-08-30T08:23:00,8,428,0.05,positive
+10209,User8,This automation pipeline keeps failing and it's frustrating #Automation #Spark,318,85,2026-08-13T17:43:00,17,403,-0.6,negative
+10210,User55,Reading about automation today #Automation,499,63,2026-08-27T14:36:00,14,562,0.05,positive
+10211,User34,"Huge breakthrough in AI today, this is fantastic #DeepLearning #Python #Kafka",137,108,2026-08-15T15:11:00,15,245,0.65,positive
+10212,User88,AI is transforming the future of automation and it's amazing #DataScience #Automation,397,127,2026-08-25T22:23:00,22,524,0.65,positive
+10213,User40,AI is transforming the future of deep learning and it's amazing #OpenAI #Python #BigData,310,14,2026-08-11T15:37:00,15,324,0.65,positive
+10214,User70,Attending a webinar on generative AI this week #DeepLearning #Kafka #AI,44,137,2026-08-21T22:08:00,22,181,0.05,positive
+10215,User42,Reading about automation today #BigData,244,129,2026-08-24T18:00:00,18,373,0.05,positive
+10216,User104,Worried about AI replacing jobs in machine learning #DeepLearning,358,74,2026-08-09T05:21:00,5,432,-0.6,negative
+10217,User119,"deep learning keeps getting better every year, so excited #OpenAI #DataScience",252,95,2026-08-03T00:42:00,0,347,0.65,positive
+10218,User4,Discussion thread on neural networks trends #Python #MachineLearning #DataScience,176,71,2026-08-28T04:18:00,4,247,0.05,positive
+10219,User63,Worried about AI replacing jobs in deep learning #AI,300,145,2026-08-26T17:38:00,17,445,-0.6,negative
+10220,User108,"data engineering keeps getting better every year, so excited #MachineLearning #Python",19,86,2026-08-12T13:25:00,13,105,0.65,positive
+10221,User72,"Just built a great AI model, loving the results #MachineLearning #AI",189,117,2026-08-02T14:01:00,14,306,0.65,positive
+10222,User73,Worried about AI replacing jobs in automation #BigData #MachineLearning #OpenAI,119,22,2026-08-15T12:07:00,12,141,-0.6,negative
+10223,User31,Attending a webinar on data engineering this week #Python,369,56,2026-08-17T21:08:00,21,425,0.05,positive
+10224,User34,"AI keeps getting better every year, so excited #AI #OpenAI",402,131,2026-08-03T03:22:00,3,533,0.65,positive
+10225,User97,Attending a webinar on data engineering this week #MachineLearning,2,50,2026-08-15T10:59:00,10,52,0.05,positive
+10226,User48,Discussion thread on robotics trends #Automation #Python #MachineLearning,131,99,2026-08-15T17:48:00,17,230,0.05,positive
+10227,User118,"Huge breakthrough in deep learning today, this is fantastic #DataScience #Python",346,3,2026-08-07T12:21:00,12,349,0.65,positive
+10228,User120,Worried about AI replacing jobs in deep learning #DataScience,316,95,2026-08-04T12:57:00,12,411,-0.6,negative
+10229,User10,New paper published on AI #MachineLearning #BigData,231,86,2026-08-29T14:20:00,14,317,0.05,positive
+10230,User29,"Just built a great data engineering model, loving the results #MachineLearning #Spark",376,14,2026-08-16T02:36:00,2,390,0.65,positive
+10231,User53,"Huge breakthrough in automation today, this is fantastic #DataScience #Python #Automation",126,39,2026-08-20T00:51:00,0,165,0.65,positive
+10232,User41,"robotics keeps getting better every year, so excited #DataScience #Kafka",233,123,2026-08-05T23:19:00,23,356,0.65,positive
+10233,User33,AI is transforming the future of automation and it's amazing #DeepLearning #OpenAI #Python,386,51,2026-08-06T10:11:00,10,437,0.65,positive
+10234,User38,Attending a webinar on machine learning this week #DeepLearning #Automation,212,41,2026-08-18T18:08:00,18,253,0.05,positive
+10235,User44,"robotics keeps getting better every year, so excited #AI",261,35,2026-08-24T02:38:00,2,296,0.65,positive
+10236,User117,"generative AI keeps getting better every year, so excited #Spark",209,55,2026-08-02T20:17:00,20,264,0.65,positive
+10237,User26,"Just built a great deep learning model, loving the results #DataScience",307,20,2026-08-08T23:49:00,23,327,0.65,positive
+10238,User86,Attending a webinar on data engineering this week #DataScience #DeepLearning,362,49,2026-08-28T20:56:00,20,411,0.05,positive
+10239,User67,Worried about AI replacing jobs in generative AI #MachineLearning,415,88,2026-08-03T12:28:00,12,503,-0.6,negative
+10240,User18,"Huge breakthrough in generative AI today, this is fantastic #AI",446,68,2026-08-22T16:35:00,16,514,0.65,positive
+10241,User77,"neural networks keeps getting better every year, so excited #DataScience",439,1,2026-08-27T03:57:00,3,440,0.65,positive
+10242,User100,"Huge breakthrough in deep learning today, this is fantastic #MachineLearning #Automation #Spark",364,97,2026-08-15T14:35:00,14,461,0.65,positive
+10243,User4,Worried about AI replacing jobs in robotics #MachineLearning #Python,271,137,2026-08-24T08:40:00,8,408,-0.6,negative
+10244,User14,"Just built a great data engineering model, loving the results #DeepLearning",159,64,2026-08-08T15:22:00,15,223,0.65,positive
+10245,User3,Worried about AI replacing jobs in deep learning #MachineLearning,428,147,2026-08-12T21:32:00,21,575,-0.6,negative
+10246,User6,Worried about AI replacing jobs in machine learning #Python #MachineLearning #Spark,139,31,2026-08-09T03:29:00,3,170,-0.6,negative
+10247,User114,"Not impressed with the latest machine learning tool, disappointing #Kafka #MachineLearning #OpenAI",70,138,2026-08-19T11:04:00,11,208,-0.6,negative
+10248,User22,Worried about AI replacing jobs in robotics #Automation,485,4,2026-08-19T01:12:00,1,489,-0.6,negative
+10249,User100,Attending a webinar on generative AI this week #BigData #OpenAI #AI,185,86,2026-08-03T08:45:00,8,271,0.05,positive
+10250,User67,"AI keeps getting better every year, so excited #BigData #Spark #Automation",75,90,2026-08-15T18:51:00,18,165,0.65,positive
+10251,User42,"Huge breakthrough in data engineering today, this is fantastic #AI #Spark #MachineLearning",221,51,2026-08-04T03:39:00,3,272,0.65,positive
+10252,User100,Worried about AI replacing jobs in generative AI #DataScience,479,116,2026-08-19T01:41:00,1,595,-0.6,negative
+10253,User35,Worried about AI replacing jobs in automation #Automation,321,138,2026-08-29T08:59:00,8,459,-0.6,negative
+10254,User31,Reading about AI today #MachineLearning #Kafka #Automation,486,10,2026-08-20T17:42:00,17,496,0.05,positive
+10255,User118,"AI keeps getting better every year, so excited #DataScience #MachineLearning",263,68,2026-08-28T01:07:00,1,331,0.65,positive
+10256,User118,"Just built a great data engineering model, loving the results #MachineLearning #OpenAI",208,147,2026-08-14T08:41:00,8,355,0.65,positive
+10257,User89,"Just built a great robotics model, loving the results #MachineLearning #OpenAI #Kafka",291,56,2026-08-28T18:13:00,18,347,0.65,positive
+10258,User105,New paper published on robotics #Spark #Python #Kafka,158,7,2026-08-22T08:14:00,8,165,0.05,positive
+10259,User51,"Just built a great generative AI model, loving the results #OpenAI",6,90,2026-08-27T15:43:00,15,96,0.65,positive
+10260,User37,"Just built a great robotics model, loving the results #OpenAI #Spark",449,55,2026-08-13T06:49:00,6,504,0.65,positive
+10261,User112,AI is transforming the future of machine learning and it's amazing #OpenAI,178,112,2026-08-28T13:49:00,13,290,0.65,positive
+10262,User54,Attending a webinar on deep learning this week #Spark #MachineLearning,172,90,2026-08-08T00:46:00,0,262,0.05,positive
+10263,User101,"Just built a great robotics model, loving the results #Automation #Kafka #MachineLearning",322,32,2026-08-13T05:28:00,5,354,0.65,positive
+10264,User51,AI is transforming the future of machine learning and it's amazing #BigData,492,146,2026-08-23T15:49:00,15,638,0.65,positive
+10265,User37,"robotics keeps getting better every year, so excited #Automation #MachineLearning #BigData",370,90,2026-08-21T20:09:00,20,460,0.65,positive
+10266,User49,"Huge breakthrough in AI today, this is fantastic #OpenAI #BigData #Spark",227,76,2026-08-23T17:38:00,17,303,0.65,positive
+10267,User30,"generative AI keeps getting better every year, so excited #BigData",45,84,2026-08-27T11:14:00,11,129,0.65,positive
+10268,User7,"Just built a great AI model, loving the results #DeepLearning #BigData",131,144,2026-08-02T03:56:00,3,275,0.65,positive
+10269,User60,Discussion thread on generative AI trends #Kafka #OpenAI #BigData,183,10,2026-08-18T17:27:00,17,193,0.05,positive
+10270,User53,This deep learning pipeline keeps failing and it's frustrating #AI #MachineLearning,191,128,2026-08-05T12:05:00,12,319,-0.6,negative
+10271,User57,"Just built a great robotics model, loving the results #BigData",392,150,2026-08-19T06:41:00,6,542,0.65,positive
+10272,User10,AI is transforming the future of neural networks and it's amazing #Spark,422,79,2026-08-17T16:29:00,16,501,0.65,positive
+10273,User38,Worried about AI replacing jobs in data engineering #Kafka #Spark #BigData,417,130,2026-08-24T20:24:00,20,547,-0.6,negative
+10274,User73,"Just built a great machine learning model, loving the results #DataScience #AI",323,10,2026-08-17T01:46:00,1,333,0.65,positive
+10275,User51,Reading about AI today #Kafka,431,25,2026-08-14T20:32:00,20,456,0.05,positive
+10276,User99,"Not impressed with the latest data engineering tool, disappointing #DeepLearning",283,145,2026-08-23T15:47:00,15,428,-0.6,negative
+10277,User67,"Just built a great data engineering model, loving the results #DeepLearning #BigData #MachineLearning",388,130,2026-08-08T03:14:00,3,518,0.65,positive
+10278,User79,AI is transforming the future of robotics and it's amazing #DataScience,220,15,2026-08-22T06:39:00,6,235,0.65,positive
+10279,User22,Discussion thread on neural networks trends #DeepLearning,16,68,2026-08-13T12:51:00,12,84,0.05,positive
+10280,User80,"Not impressed with the latest deep learning tool, disappointing #Spark",197,5,2026-08-21T11:20:00,11,202,-0.6,negative
+10281,User29,"Huge breakthrough in deep learning today, this is fantastic #AI #Python #Automation",22,40,2026-08-12T08:20:00,8,62,0.65,positive
+10282,User78,New paper published on automation #AI #Python,129,126,2026-08-20T00:58:00,0,255,0.05,positive
+10283,User40,Reading about deep learning today #BigData,204,124,2026-08-19T19:38:00,19,328,0.05,positive
+10284,User49,"Just built a great data engineering model, loving the results #DataScience",95,1,2026-08-17T07:27:00,7,96,0.65,positive
+10285,User69,Discussion thread on machine learning trends #OpenAI #Spark,446,98,2026-08-16T05:55:00,5,544,0.05,positive
+10286,User32,AI is transforming the future of neural networks and it's amazing #BigData,198,48,2026-08-26T04:56:00,4,246,0.65,positive
+10287,User86,This AI pipeline keeps failing and it's frustrating #BigData,12,87,2026-08-13T16:53:00,16,99,-0.6,negative
+10288,User107,New paper published on automation #DataScience #MachineLearning #DeepLearning,403,32,2026-08-25T19:08:00,19,435,0.05,positive
+10289,User28,This neural networks pipeline keeps failing and it's frustrating #DataScience,369,103,2026-08-17T01:28:00,1,472,-0.6,negative
+10290,User110,"Just built a great deep learning model, loving the results #Python #OpenAI",231,33,2026-08-11T08:14:00,8,264,0.65,positive
+10291,User66,Discussion thread on generative AI trends #Python #Spark #DeepLearning,108,32,2026-08-28T16:19:00,16,140,0.05,positive
+10292,User85,Reading about generative AI today #OpenAI #MachineLearning #Kafka,367,145,2026-08-02T07:21:00,7,512,0.05,positive
+10293,User25,AI is transforming the future of deep learning and it's amazing #MachineLearning #DataScience,339,27,2026-08-15T14:39:00,14,366,0.65,positive
+10294,User29,"automation keeps getting better every year, so excited #Kafka #DeepLearning #MachineLearning",147,32,2026-08-05T00:03:00,0,179,0.65,positive
+10295,User113,Attending a webinar on robotics this week #Spark #BigData,321,33,2026-08-29T13:58:00,13,354,0.05,positive
+10296,User4,New paper published on neural networks #Spark,337,118,2026-08-19T18:38:00,18,455,0.05,positive
+10297,User35,"Huge breakthrough in automation today, this is fantastic #MachineLearning #DataScience",467,56,2026-08-06T05:51:00,5,523,0.65,positive
+10298,User97,Reading about generative AI today #AI #DataScience,155,39,2026-08-10T00:21:00,0,194,0.05,positive
+10299,User33,AI is transforming the future of robotics and it's amazing #Kafka #DataScience #DeepLearning,473,111,2026-08-24T16:49:00,16,584,0.65,positive
+10300,User113,Discussion thread on automation trends #MachineLearning,437,149,2026-08-02T22:55:00,22,586,0.05,positive
+10301,User27,Worried about AI replacing jobs in AI #MachineLearning,397,88,2026-08-15T11:56:00,11,485,-0.6,negative
+10302,User12,Reading about automation today #BigData #DeepLearning,178,108,2026-08-24T23:58:00,23,286,0.05,positive
+10303,User87,"deep learning keeps getting better every year, so excited #OpenAI #Python #AI",262,32,2026-08-20T11:52:00,11,294,0.65,positive
+10304,User70,Worried about AI replacing jobs in automation #OpenAI,83,60,2026-08-08T22:38:00,22,143,-0.6,negative
+10305,User53,Worried about AI replacing jobs in neural networks #DataScience,47,51,2026-08-16T19:16:00,19,98,-0.6,negative
+10306,User91,Worried about AI replacing jobs in robotics #Python,123,1,2026-08-11T19:49:00,19,124,-0.6,negative
+10307,User114,This automation pipeline keeps failing and it's frustrating #Spark,362,36,2026-08-07T01:42:00,1,398,-0.6,negative
+10308,User87,Worried about AI replacing jobs in generative AI #MachineLearning #OpenAI,341,39,2026-08-08T16:49:00,16,380,-0.6,negative
+10309,User47,This automation pipeline keeps failing and it's frustrating #DeepLearning #MachineLearning,249,52,2026-08-01T13:30:00,13,301,-0.6,negative
+10310,User15,"automation keeps getting better every year, so excited #DeepLearning #MachineLearning",82,83,2026-08-21T09:21:00,9,165,0.65,positive
+10311,User2,"machine learning keeps getting better every year, so excited #DataScience #OpenAI",239,124,2026-08-03T01:47:00,1,363,0.65,positive
+10312,User63,"robotics keeps getting better every year, so excited #Automation #Kafka #MachineLearning",97,139,2026-08-20T18:18:00,18,236,0.65,positive
+10313,User32,"automation keeps getting better every year, so excited #Kafka",40,35,2026-08-30T17:19:00,17,75,0.65,positive
+10314,User82,Reading about neural networks today #DataScience #Kafka,269,43,2026-08-09T10:52:00,10,312,0.05,positive
+10315,User106,"data engineering keeps getting better every year, so excited #Automation #Spark #BigData",182,81,2026-08-30T11:01:00,11,263,0.65,positive
+10316,User14,"Just built a great AI model, loving the results #Spark #Kafka #DeepLearning",290,103,2026-08-02T21:03:00,21,393,0.65,positive
+10317,User78,New paper published on data engineering #BigData #Python,297,20,2026-08-14T15:12:00,15,317,0.05,positive
+10318,User52,"Just built a great robotics model, loving the results #DataScience",45,10,2026-08-29T23:30:00,23,55,0.65,positive
+10319,User5,Attending a webinar on neural networks this week #DeepLearning,430,130,2026-08-01T03:03:00,3,560,0.05,positive
+10320,User9,"generative AI keeps getting better every year, so excited #AI",224,2,2026-08-16T09:54:00,9,226,0.65,positive
+10321,User103,New paper published on AI #DataScience #BigData #Kafka,288,89,2026-08-21T04:02:00,4,377,0.05,positive
+10322,User59,This neural networks pipeline keeps failing and it's frustrating #OpenAI,219,136,2026-08-24T12:27:00,12,355,-0.6,negative
+10323,User78,New paper published on AI #Automation #MachineLearning,337,76,2026-08-16T02:07:00,2,413,0.05,positive
+10324,User68,This automation pipeline keeps failing and it's frustrating #Python #DataScience,453,7,2026-08-16T15:05:00,15,460,-0.6,negative
+10325,User75,New paper published on neural networks #Python #MachineLearning #DataScience,482,106,2026-08-26T06:04:00,6,588,0.05,positive
+10326,User24,"Just built a great machine learning model, loving the results #Python #BigData #Kafka",495,51,2026-08-11T08:12:00,8,546,0.65,positive
+10327,User68,Worried about AI replacing jobs in machine learning #Kafka,343,64,2026-08-09T12:50:00,12,407,-0.6,negative
+10328,User87,New paper published on machine learning #Python #DeepLearning #MachineLearning,37,112,2026-08-19T13:40:00,13,149,0.05,positive
+10329,User22,AI is transforming the future of generative AI and it's amazing #OpenAI #MachineLearning #Python,495,49,2026-08-25T18:31:00,18,544,0.65,positive
+10330,User31,Worried about AI replacing jobs in AI #Spark,24,95,2026-08-19T09:39:00,9,119,-0.6,negative
+10331,User117,"Just built a great data engineering model, loving the results #Kafka #MachineLearning",454,22,2026-08-20T09:16:00,9,476,0.65,positive
+10332,User103,Worried about AI replacing jobs in neural networks #MachineLearning #Spark #DataScience,390,2,2026-08-16T12:53:00,12,392,-0.6,negative
+10333,User6,Reading about neural networks today #Spark,418,90,2026-08-23T06:06:00,6,508,0.05,positive
+10334,User25,"automation keeps getting better every year, so excited #MachineLearning #AI #DeepLearning",355,114,2026-08-17T03:02:00,3,469,0.65,positive
+10335,User10,"Huge breakthrough in robotics today, this is fantastic #AI",409,66,2026-08-06T00:36:00,0,475,0.65,positive
+10336,User2,"automation keeps getting better every year, so excited #BigData #DataScience #Kafka",12,87,2026-08-21T05:03:00,5,99,0.65,positive
+10337,User80,Attending a webinar on machine learning this week #Python #AI #OpenAI,418,100,2026-08-09T07:06:00,7,518,0.05,positive
+10338,User43,New paper published on machine learning #Python #BigData #DeepLearning,270,55,2026-08-17T10:14:00,10,325,0.05,positive
+10339,User94,"Just built a great data engineering model, loving the results #Automation #AI #DeepLearning",239,84,2026-08-17T10:17:00,10,323,0.65,positive
+10340,User62,This neural networks pipeline keeps failing and it's frustrating #Spark #AI,170,58,2026-08-27T08:35:00,8,228,-0.6,negative
+10341,User35,"Huge breakthrough in automation today, this is fantastic #AI #DataScience #OpenAI",32,128,2026-08-18T11:54:00,11,160,0.65,positive
+10342,User116,Discussion thread on AI trends #Automation #OpenAI #DataScience,394,24,2026-08-26T12:21:00,12,418,0.05,positive
+10343,User112,Attending a webinar on automation this week #Automation #MachineLearning #Spark,407,36,2026-08-11T20:00:00,20,443,0.05,positive
+10344,User112,Discussion thread on deep learning trends #Spark #OpenAI,281,103,2026-08-16T22:45:00,22,384,0.05,positive
+10345,User45,"deep learning keeps getting better every year, so excited #Spark #Python #Automation",77,34,2026-08-11T16:28:00,16,111,0.65,positive
+10346,User76,"Huge breakthrough in automation today, this is fantastic #Python #BigData",33,36,2026-08-08T16:30:00,16,69,0.65,positive
+10347,User118,"neural networks keeps getting better every year, so excited #Automation #OpenAI",97,149,2026-08-04T08:16:00,8,246,0.65,positive
+10348,User100,New paper published on robotics #Automation #Spark,353,109,2026-08-17T05:54:00,5,462,0.05,positive
+10349,User70,Reading about automation today #Spark #DataScience,11,42,2026-08-12T17:18:00,17,53,0.05,positive
+10350,User26,Worried about AI replacing jobs in generative AI #AI #DeepLearning #Automation,457,72,2026-08-21T09:14:00,9,529,-0.6,negative
+10351,User77,Reading about AI today #DeepLearning,24,20,2026-08-06T20:55:00,20,44,0.05,positive
+10352,User83,"automation keeps getting better every year, so excited #DataScience #AI #DeepLearning",448,3,2026-08-25T10:28:00,10,451,0.65,positive
+10353,User84,Worried about AI replacing jobs in neural networks #Spark,248,103,2026-08-02T05:35:00,5,351,-0.6,negative
+10354,User12,This generative AI pipeline keeps failing and it's frustrating #AI,320,85,2026-08-03T01:39:00,1,405,-0.6,negative
+10355,User73,Attending a webinar on AI this week #Python #AI,334,80,2026-08-15T10:07:00,10,414,0.05,positive
+10356,User27,"AI keeps getting better every year, so excited #MachineLearning",73,135,2026-08-08T02:36:00,2,208,0.65,positive
+10357,User88,Reading about neural networks today #Spark #BigData,301,142,2026-08-25T12:21:00,12,443,0.05,positive
+10358,User98,"automation keeps getting better every year, so excited #Automation",16,79,2026-08-22T17:37:00,17,95,0.65,positive
+10359,User2,Attending a webinar on data engineering this week #Kafka #Spark #Automation,285,121,2026-08-12T12:15:00,12,406,0.05,positive
+10360,User120,"generative AI keeps getting better every year, so excited #DeepLearning",14,34,2026-08-05T02:12:00,2,48,0.65,positive
+10361,User112,"Just built a great data engineering model, loving the results #DataScience #Kafka #Spark",377,41,2026-08-09T01:48:00,1,418,0.65,positive
+10362,User117,This deep learning pipeline keeps failing and it's frustrating #DeepLearning #Python #OpenAI,176,99,2026-08-29T22:49:00,22,275,-0.6,negative
+10363,User104,This AI pipeline keeps failing and it's frustrating #MachineLearning,330,102,2026-08-03T23:28:00,23,432,-0.6,negative
+10364,User117,Discussion thread on generative AI trends #DeepLearning,470,96,2026-08-19T15:45:00,15,566,0.05,positive
+10365,User91,New paper published on AI #Kafka,222,61,2026-08-12T22:31:00,22,283,0.05,positive
+10366,User28,"Just built a great automation model, loving the results #BigData #Kafka",291,40,2026-08-23T16:36:00,16,331,0.65,positive
+10367,User43,This automation pipeline keeps failing and it's frustrating #Kafka,2,124,2026-08-05T00:35:00,0,126,-0.6,negative
+10368,User75,New paper published on robotics #Spark,26,53,2026-08-10T15:38:00,15,79,0.05,positive
+10369,User111,Discussion thread on data engineering trends #Python,71,76,2026-08-20T18:55:00,18,147,0.05,positive
+10370,User20,Reading about data engineering today #AI,257,90,2026-08-14T18:38:00,18,347,0.05,positive
+10371,User83,"Just built a great generative AI model, loving the results #BigData #MachineLearning",470,101,2026-08-16T10:52:00,10,571,0.65,positive
+10372,User65,Reading about AI today #DeepLearning #Automation #AI,304,59,2026-08-07T03:16:00,3,363,0.05,positive
+10373,User9,"Not impressed with the latest AI tool, disappointing #AI",449,28,2026-08-15T09:41:00,9,477,-0.6,negative
+10374,User23,"Huge breakthrough in generative AI today, this is fantastic #OpenAI",114,138,2026-08-01T02:48:00,2,252,0.65,positive
+10375,User110,AI is transforming the future of neural networks and it's amazing #Spark #Python #MachineLearning,495,57,2026-08-10T18:59:00,18,552,0.65,positive
+10376,User6,Discussion thread on automation trends #DataScience #AI #Kafka,100,130,2026-08-04T03:16:00,3,230,0.05,positive
+10377,User59,"AI keeps getting better every year, so excited #AI #Spark",278,72,2026-08-30T17:22:00,17,350,0.65,positive
+10378,User70,"Not impressed with the latest generative AI tool, disappointing #Kafka #BigData",214,98,2026-08-15T11:37:00,11,312,-0.6,negative
+10379,User78,Attending a webinar on AI this week #BigData #DataScience,256,65,2026-08-11T21:09:00,21,321,0.05,positive
+10380,User108,Attending a webinar on machine learning this week #DeepLearning,317,8,2026-08-04T22:49:00,22,325,0.05,positive
+10381,User86,Reading about robotics today #OpenAI #Spark,161,116,2026-08-25T23:35:00,23,277,0.05,positive
+10382,User70,Reading about neural networks today #Python #OpenAI,194,60,2026-08-27T22:56:00,22,254,0.05,positive
+10383,User85,Attending a webinar on automation this week #MachineLearning #BigData,346,82,2026-08-28T21:21:00,21,428,0.05,positive
+10384,User76,"Just built a great neural networks model, loving the results #Kafka #Automation #Python",244,146,2026-08-24T18:12:00,18,390,0.65,positive
+10385,User27,"Just built a great neural networks model, loving the results #OpenAI",270,43,2026-08-24T20:16:00,20,313,0.65,positive
+10386,User106,New paper published on data engineering #DataScience #Automation #Python,438,11,2026-08-30T03:37:00,3,449,0.05,positive
+10387,User49,"data engineering keeps getting better every year, so excited #MachineLearning #BigData",52,93,2026-08-12T10:41:00,10,145,0.65,positive
+10388,User58,"generative AI keeps getting better every year, so excited #MachineLearning #Kafka",355,28,2026-08-14T05:18:00,5,383,0.65,positive
+10389,User47,"Huge breakthrough in AI today, this is fantastic #DataScience #OpenAI #Automation",250,133,2026-08-06T22:33:00,22,383,0.65,positive
+10390,User26,Discussion thread on AI trends #Spark #BigData #Kafka,0,146,2026-08-26T07:31:00,7,146,0.05,positive
+10391,User31,"Just built a great neural networks model, loving the results #OpenAI #Kafka",135,112,2026-08-12T15:12:00,15,247,0.65,positive
+10392,User102,"Huge breakthrough in data engineering today, this is fantastic #DeepLearning",148,95,2026-08-20T06:11:00,6,243,0.65,positive
+10393,User56,Attending a webinar on automation this week #Spark #AI,331,65,2026-08-19T13:33:00,13,396,0.05,positive
+10394,User43,"Huge breakthrough in machine learning today, this is fantastic #DataScience #DeepLearning #Spark",440,18,2026-08-10T05:52:00,5,458,0.65,positive
+10395,User120,"Huge breakthrough in generative AI today, this is fantastic #BigData #OpenAI",461,6,2026-08-23T14:25:00,14,467,0.65,positive
+10396,User114,"Huge breakthrough in robotics today, this is fantastic #BigData #Automation",33,112,2026-08-09T00:29:00,0,145,0.65,positive
+10397,User6,"Just built a great generative AI model, loving the results #AI #DeepLearning #OpenAI",473,75,2026-08-25T15:38:00,15,548,0.65,positive
+10398,User74,This deep learning pipeline keeps failing and it's frustrating #MachineLearning #Automation,418,3,2026-08-04T12:15:00,12,421,-0.6,negative
+10399,User106,AI is transforming the future of robotics and it's amazing #Automation,348,51,2026-08-03T12:04:00,12,399,0.65,positive
+10400,User18,Attending a webinar on generative AI this week #OpenAI,208,12,2026-08-27T13:49:00,13,220,0.05,positive
+10401,User69,New paper published on AI #Spark #DeepLearning,140,133,2026-08-09T11:19:00,11,273,0.05,positive
+10402,User114,"generative AI keeps getting better every year, so excited #Kafka #Automation",215,13,2026-08-24T06:07:00,6,228,0.65,positive
+10403,User26,"Just built a great automation model, loving the results #BigData #OpenAI",67,13,2026-08-14T21:06:00,21,80,0.65,positive
+10404,User26,"neural networks keeps getting better every year, so excited #Python #DataScience",233,142,2026-08-16T13:17:00,13,375,0.65,positive
+10405,User73,Discussion thread on machine learning trends #OpenAI,421,82,2026-08-19T14:39:00,14,503,0.05,positive
+10406,User79,"Just built a great deep learning model, loving the results #Kafka #DeepLearning",232,103,2026-08-27T22:43:00,22,335,0.65,positive
+10407,User56,Attending a webinar on AI this week #DeepLearning,439,31,2026-08-09T04:45:00,4,470,0.05,positive
+10408,User29,AI is transforming the future of data engineering and it's amazing #Python #DataScience #AI,345,75,2026-08-23T16:11:00,16,420,0.65,positive
+10409,User13,New paper published on machine learning #DeepLearning,103,23,2026-08-22T04:37:00,4,126,0.05,positive
+10410,User20,Attending a webinar on robotics this week #Kafka,444,14,2026-08-20T07:45:00,7,458,0.05,positive
+10411,User98,New paper published on robotics #DataScience,119,149,2026-08-14T08:43:00,8,268,0.05,positive
+10412,User103,New paper published on deep learning #Kafka #Spark,340,59,2026-08-07T21:54:00,21,399,0.05,positive
+10413,User84,AI is transforming the future of automation and it's amazing #BigData #DataScience,279,23,2026-08-11T03:58:00,3,302,0.65,positive
+10414,User5,"Just built a great generative AI model, loving the results #DataScience #BigData #Spark",424,90,2026-08-06T04:55:00,4,514,0.65,positive
+10415,User45,"Just built a great automation model, loving the results #OpenAI #Automation #MachineLearning",9,127,2026-08-23T07:07:00,7,136,0.65,positive
+10416,User77,Reading about automation today #Python,298,138,2026-08-14T18:54:00,18,436,0.05,positive
+10417,User75,New paper published on automation #Python,473,76,2026-08-11T08:08:00,8,549,0.05,positive
+10418,User85,AI is transforming the future of deep learning and it's amazing #Spark,153,12,2026-08-07T22:15:00,22,165,0.65,positive
+10419,User23,"neural networks keeps getting better every year, so excited #Python #DeepLearning",56,76,2026-08-17T13:38:00,13,132,0.65,positive
+10420,User77,Attending a webinar on machine learning this week #OpenAI,201,118,2026-08-08T08:15:00,8,319,0.05,positive
+10421,User74,AI is transforming the future of data engineering and it's amazing #Automation #MachineLearning #BigData,428,90,2026-08-19T21:38:00,21,518,0.65,positive
+10422,User108,"Just built a great neural networks model, loving the results #DataScience #MachineLearning",330,122,2026-08-01T05:24:00,5,452,0.65,positive
+10423,User20,"deep learning keeps getting better every year, so excited #MachineLearning",254,69,2026-08-06T07:52:00,7,323,0.65,positive
+10424,User69,Worried about AI replacing jobs in data engineering #Python #DeepLearning,21,129,2026-08-26T20:48:00,20,150,-0.6,negative
+10425,User117,"Just built a great deep learning model, loving the results #BigData #OpenAI",122,136,2026-08-06T18:50:00,18,258,0.65,positive
+10426,User102,Worried about AI replacing jobs in AI #MachineLearning,405,146,2026-08-23T05:27:00,5,551,-0.6,negative
+10427,User4,"Just built a great data engineering model, loving the results #DataScience",217,100,2026-08-13T00:32:00,0,317,0.65,positive
+10428,User28,Worried about AI replacing jobs in machine learning #Automation #MachineLearning,119,62,2026-08-27T07:53:00,7,181,-0.6,negative
+10429,User6,"Not impressed with the latest neural networks tool, disappointing #AI #DeepLearning #MachineLearning",110,44,2026-08-05T11:07:00,11,154,-0.6,negative
+10430,User41,Discussion thread on data engineering trends #Python,481,105,2026-08-01T11:45:00,11,586,0.05,positive
+10431,User87,Reading about data engineering today #DeepLearning,85,38,2026-08-24T06:35:00,6,123,0.05,positive
+10432,User91,New paper published on deep learning #DeepLearning,499,17,2026-08-16T01:36:00,1,516,0.05,positive
+10433,User97,Attending a webinar on neural networks this week #Python,308,16,2026-08-04T03:24:00,3,324,0.05,positive
+10434,User21,AI is transforming the future of neural networks and it's amazing #BigData #MachineLearning,411,126,2026-08-27T12:32:00,12,537,0.65,positive
+10435,User96,Attending a webinar on automation this week #Kafka,238,42,2026-08-03T09:38:00,9,280,0.05,positive
+10436,User97,"machine learning keeps getting better every year, so excited #Automation #OpenAI #MachineLearning",429,59,2026-08-12T11:15:00,11,488,0.65,positive
+10437,User102,"Huge breakthrough in generative AI today, this is fantastic #DeepLearning #Python #AI",320,87,2026-08-18T23:14:00,23,407,0.65,positive
+10438,User116,Attending a webinar on neural networks this week #DeepLearning,428,109,2026-08-28T01:45:00,1,537,0.05,positive
+10439,User54,Reading about machine learning today #Python #AI,210,76,2026-08-22T15:14:00,15,286,0.05,positive
+10440,User80,This generative AI pipeline keeps failing and it's frustrating #DeepLearning #MachineLearning #Spark,16,74,2026-08-22T04:55:00,4,90,-0.6,negative
+10441,User104,"generative AI keeps getting better every year, so excited #Python",123,30,2026-08-25T11:49:00,11,153,0.65,positive
+10442,User20,AI is transforming the future of automation and it's amazing #DataScience #BigData,185,42,2026-08-16T03:21:00,3,227,0.65,positive
+10443,User51,"Huge breakthrough in deep learning today, this is fantastic #Python #Spark",269,2,2026-08-08T09:10:00,9,271,0.65,positive
+10444,User104,"Just built a great robotics model, loving the results #DeepLearning",336,64,2026-08-26T17:24:00,17,400,0.65,positive
+10445,User10,Reading about automation today #OpenAI #BigData #DataScience,263,84,2026-08-19T22:24:00,22,347,0.05,positive
+10446,User64,"AI keeps getting better every year, so excited #Kafka #BigData",252,93,2026-08-30T18:59:00,18,345,0.65,positive
+10447,User40,Reading about generative AI today #MachineLearning,384,131,2026-08-21T09:02:00,9,515,0.05,positive
+10448,User1,Attending a webinar on robotics this week #Spark,487,69,2026-08-07T05:37:00,5,556,0.05,positive
+10449,User99,AI is transforming the future of deep learning and it's amazing #DataScience #Kafka,278,6,2026-08-14T06:02:00,6,284,0.65,positive
+10450,User42,"Huge breakthrough in neural networks today, this is fantastic #MachineLearning #BigData #Python",82,147,2026-08-13T15:04:00,15,229,0.65,positive
+10451,User40,Worried about AI replacing jobs in AI #Spark #DataScience #DeepLearning,378,133,2026-08-08T09:06:00,9,511,-0.6,negative
+10452,User100,"automation keeps getting better every year, so excited #Automation",495,92,2026-08-18T10:18:00,10,587,0.65,positive
+10453,User42,New paper published on deep learning #Kafka #Python,475,112,2026-08-29T05:59:00,5,587,0.05,positive
+10454,User35,"generative AI keeps getting better every year, so excited #BigData #Spark",57,52,2026-08-22T12:09:00,12,109,0.65,positive
+10455,User36,Attending a webinar on AI this week #BigData #DataScience #Spark,387,137,2026-08-07T22:06:00,22,524,0.05,positive
+10456,User92,"Not impressed with the latest generative AI tool, disappointing #BigData #MachineLearning #Kafka",469,101,2026-08-17T12:12:00,12,570,-0.6,negative
+10457,User69,This AI pipeline keeps failing and it's frustrating #MachineLearning #Kafka #Python,423,145,2026-08-02T21:08:00,21,568,-0.6,negative
+10458,User87,"machine learning keeps getting better every year, so excited #DeepLearning #MachineLearning",424,105,2026-08-28T10:22:00,10,529,0.65,positive
+10459,User51,Reading about machine learning today #DataScience #Automation,430,87,2026-08-19T09:05:00,9,517,0.05,positive
+10460,User95,"Huge breakthrough in data engineering today, this is fantastic #Spark #DataScience",266,105,2026-08-25T04:51:00,4,371,0.65,positive
+10461,User119,Discussion thread on neural networks trends #DeepLearning,211,17,2026-08-04T00:02:00,0,228,0.05,positive
+10462,User94,"Not impressed with the latest deep learning tool, disappointing #DeepLearning #BigData #OpenAI",140,33,2026-08-27T02:39:00,2,173,-0.6,negative
+10463,User17,"Just built a great generative AI model, loving the results #MachineLearning #Kafka #AI",331,98,2026-08-14T02:00:00,2,429,0.65,positive
+10464,User40,This deep learning pipeline keeps failing and it's frustrating #MachineLearning #OpenAI #Kafka,48,92,2026-08-11T04:31:00,4,140,-0.6,negative
+10465,User108,Reading about machine learning today #AI #OpenAI,488,83,2026-08-06T13:04:00,13,571,0.05,positive
+10466,User76,"Huge breakthrough in AI today, this is fantastic #DataScience #Python #Kafka",284,8,2026-08-21T06:49:00,6,292,0.65,positive
+10467,User81,"Huge breakthrough in deep learning today, this is fantastic #Python",479,87,2026-08-14T09:17:00,9,566,0.65,positive
+10468,User108,New paper published on deep learning #OpenAI,498,147,2026-08-13T19:42:00,19,645,0.05,positive
+10469,User35,Worried about AI replacing jobs in AI #DataScience,217,95,2026-08-23T23:14:00,23,312,-0.6,negative
+10470,User76,"generative AI keeps getting better every year, so excited #MachineLearning #Automation #BigData",209,57,2026-08-24T07:20:00,7,266,0.65,positive
+10471,User83,Reading about automation today #OpenAI #Spark,244,147,2026-08-04T05:58:00,5,391,0.05,positive
+10472,User25,"Huge breakthrough in neural networks today, this is fantastic #Automation #Python #DeepLearning",57,103,2026-08-29T00:29:00,0,160,0.65,positive
+10473,User100,"Just built a great AI model, loving the results #OpenAI",101,50,2026-08-20T23:05:00,23,151,0.65,positive
+10474,User27,New paper published on machine learning #Kafka #AI #OpenAI,213,3,2026-08-17T02:33:00,2,216,0.05,positive
+10475,User14,Discussion thread on neural networks trends #Spark #DataScience #Automation,22,44,2026-08-14T21:57:00,21,66,0.05,positive
+10476,User14,Attending a webinar on machine learning this week #Python,439,39,2026-08-16T14:34:00,14,478,0.05,positive
+10477,User115,"Huge breakthrough in neural networks today, this is fantastic #MachineLearning #Spark",420,32,2026-08-22T16:11:00,16,452,0.65,positive
+10478,User3,Discussion thread on automation trends #BigData #DeepLearning #Spark,480,49,2026-08-30T20:53:00,20,529,0.05,positive
+10479,User2,Attending a webinar on data engineering this week #BigData #DataScience #Automation,56,54,2026-08-07T07:04:00,7,110,0.05,positive
+10480,User100,Attending a webinar on machine learning this week #AI,22,52,2026-08-22T02:29:00,2,74,0.05,positive
+10481,User99,Reading about robotics today #Spark #OpenAI,327,52,2026-08-23T01:14:00,1,379,0.05,positive
+10482,User113,"Just built a great machine learning model, loving the results #BigData #MachineLearning",64,51,2026-08-27T21:46:00,21,115,0.65,positive
+10483,User22,"Huge breakthrough in AI today, this is fantastic #Automation",204,61,2026-08-22T10:05:00,10,265,0.65,positive
+10484,User49,Attending a webinar on robotics this week #Python #DataScience #MachineLearning,32,61,2026-08-28T06:20:00,6,93,0.05,positive
+10485,User95,New paper published on deep learning #BigData,379,9,2026-08-29T20:23:00,20,388,0.05,positive
+10486,User52,"Just built a great robotics model, loving the results #AI",123,56,2026-08-03T05:10:00,5,179,0.65,positive
+10487,User60,Reading about AI today #Automation #BigData #Kafka,9,122,2026-08-07T23:34:00,23,131,0.05,positive
+10488,User66,Reading about data engineering today #MachineLearning #DataScience #OpenAI,165,27,2026-08-29T00:43:00,0,192,0.05,positive
+10489,User83,This AI pipeline keeps failing and it's frustrating #MachineLearning,420,21,2026-08-26T07:11:00,7,441,-0.6,negative
+10490,User79,"Not impressed with the latest AI tool, disappointing #Automation #OpenAI #MachineLearning",148,117,2026-08-25T19:47:00,19,265,-0.6,negative
+10491,User16,AI is transforming the future of robotics and it's amazing #DeepLearning #AI #DataScience,362,53,2026-08-10T12:01:00,12,415,0.65,positive
+10492,User94,Reading about machine learning today #MachineLearning #OpenAI #Spark,122,25,2026-08-04T23:56:00,23,147,0.05,positive
+10493,User78,"data engineering keeps getting better every year, so excited #Kafka #Automation",295,85,2026-08-23T11:43:00,11,380,0.65,positive
+10494,User88,Reading about AI today #MachineLearning,354,54,2026-08-06T04:09:00,4,408,0.05,positive
+10495,User108,This machine learning pipeline keeps failing and it's frustrating #Automation #DeepLearning,30,7,2026-08-01T23:33:00,23,37,-0.6,negative
+10496,User33,New paper published on automation #AI #DataScience,361,34,2026-08-21T02:29:00,2,395,0.05,positive
+10497,User21,"generative AI keeps getting better every year, so excited #AI #Spark",226,41,2026-08-05T07:27:00,7,267,0.65,positive
+10498,User69,Attending a webinar on AI this week #Spark #Kafka #DeepLearning,10,87,2026-08-19T18:28:00,18,97,0.05,positive
+10499,User69,"neural networks keeps getting better every year, so excited #AI #DeepLearning",82,26,2026-08-04T14:36:00,14,108,0.65,positive
+10500,User16,"machine learning keeps getting better every year, so excited #Spark #Automation",494,117,2026-08-25T10:51:00,10,611,0.65,positive
+10501,User28,AI is transforming the future of machine learning and it's amazing #OpenAI #DeepLearning #BigData,111,73,2026-08-30T11:33:00,11,184,0.65,positive
+10502,User57,Reading about data engineering today #Kafka #BigData #MachineLearning,314,42,2026-08-28T18:56:00,18,356,0.05,positive
+10503,User12,Discussion thread on automation trends #DeepLearning #Spark,353,53,2026-08-02T06:13:00,6,406,0.05,positive
+10504,User39,"Not impressed with the latest machine learning tool, disappointing #Automation #DataScience #MachineLearning",39,16,2026-08-18T19:13:00,19,55,-0.6,negative
+10505,User72,Reading about machine learning today #Spark,57,126,2026-08-07T11:21:00,11,183,0.05,positive
+10506,User39,"Not impressed with the latest machine learning tool, disappointing #Kafka #Python #DataScience",202,104,2026-08-12T14:27:00,14,306,-0.6,negative
+10507,User107,New paper published on neural networks #MachineLearning #Python,105,7,2026-08-15T16:27:00,16,112,0.05,positive
+10508,User36,"Just built a great neural networks model, loving the results #DeepLearning",319,2,2026-08-16T06:30:00,6,321,0.65,positive
+10509,User24,Reading about automation today #DataScience,23,36,2026-08-12T23:19:00,23,59,0.05,positive
+10510,User9,Worried about AI replacing jobs in deep learning #Kafka #MachineLearning,151,3,2026-08-03T19:46:00,19,154,-0.6,negative
+10511,User48,"Just built a great data engineering model, loving the results #Spark #OpenAI",403,64,2026-08-07T07:07:00,7,467,0.65,positive
+10512,User120,"Just built a great automation model, loving the results #MachineLearning #DeepLearning #DataScience",391,7,2026-08-18T07:54:00,7,398,0.65,positive
+10513,User83,"Just built a great neural networks model, loving the results #BigData",457,120,2026-08-11T23:05:00,23,577,0.65,positive
+10514,User31,AI is transforming the future of generative AI and it's amazing #MachineLearning,144,7,2026-08-17T19:25:00,19,151,0.65,positive
+10515,User92,This robotics pipeline keeps failing and it's frustrating #MachineLearning,251,23,2026-08-26T06:32:00,6,274,-0.6,negative
+10516,User8,"Huge breakthrough in generative AI today, this is fantastic #DataScience #DeepLearning",60,48,2026-08-21T00:53:00,0,108,0.65,positive
+10517,User8,"neural networks keeps getting better every year, so excited #Python #DeepLearning",36,130,2026-08-26T05:58:00,5,166,0.65,positive
+10518,User68,"Just built a great AI model, loving the results #Automation #BigData #MachineLearning",28,61,2026-08-20T15:42:00,15,89,0.65,positive
+10519,User34,"Not impressed with the latest machine learning tool, disappointing #DeepLearning #MachineLearning",239,117,2026-08-22T17:23:00,17,356,-0.6,negative
+10520,User27,New paper published on neural networks #Python,143,92,2026-08-05T10:58:00,10,235,0.05,positive
+10521,User84,"Huge breakthrough in AI today, this is fantastic #Kafka #DataScience",415,131,2026-08-29T13:26:00,13,546,0.65,positive
+10522,User18,Attending a webinar on robotics this week #AI #OpenAI #DeepLearning,333,93,2026-08-28T12:44:00,12,426,0.05,positive
+10523,User77,"deep learning keeps getting better every year, so excited #AI #Spark #DataScience",234,20,2026-08-01T17:05:00,17,254,0.65,positive
+10524,User96,AI is transforming the future of deep learning and it's amazing #Python #DataScience,160,149,2026-08-14T20:32:00,20,309,0.65,positive
+10525,User62,AI is transforming the future of AI and it's amazing #AI #DataScience,119,16,2026-08-17T09:07:00,9,135,0.65,positive
+10526,User26,"Not impressed with the latest deep learning tool, disappointing #Python #DeepLearning #OpenAI",158,116,2026-08-22T09:50:00,9,274,-0.6,negative
+10527,User53,"data engineering keeps getting better every year, so excited #BigData",342,5,2026-08-16T14:49:00,14,347,0.65,positive
+10528,User104,Worried about AI replacing jobs in data engineering #AI,132,116,2026-08-28T15:35:00,15,248,-0.6,negative
+10529,User16,"Not impressed with the latest deep learning tool, disappointing #BigData #DataScience #Kafka",140,106,2026-08-26T13:57:00,13,246,-0.6,negative
+10530,User55,"Just built a great data engineering model, loving the results #DataScience #Spark #AI",85,20,2026-08-11T15:55:00,15,105,0.65,positive
+10531,User92,This data engineering pipeline keeps failing and it's frustrating #Kafka #DeepLearning,208,24,2026-08-13T05:44:00,5,232,-0.6,negative
+10532,User97,AI is transforming the future of machine learning and it's amazing #Kafka,495,44,2026-08-14T03:37:00,3,539,0.65,positive
+10533,User104,Attending a webinar on generative AI this week #OpenAI,339,131,2026-08-14T15:58:00,15,470,0.05,positive
+10534,User72,This neural networks pipeline keeps failing and it's frustrating #Python,98,111,2026-08-24T18:03:00,18,209,-0.6,negative
+10535,User47,"deep learning keeps getting better every year, so excited #BigData #DataScience #Kafka",489,134,2026-08-19T18:03:00,18,623,0.65,positive
+10536,User57,AI is transforming the future of neural networks and it's amazing #AI #Python #DeepLearning,243,87,2026-08-01T10:29:00,10,330,0.65,positive
+10537,User27,New paper published on generative AI #Spark #DeepLearning,277,104,2026-08-05T01:09:00,1,381,0.05,positive
+10538,User99,"Just built a great generative AI model, loving the results #DeepLearning #Spark #OpenAI",186,32,2026-08-23T11:57:00,11,218,0.65,positive
+10539,User79,New paper published on data engineering #MachineLearning #AI,215,19,2026-08-19T11:36:00,11,234,0.05,positive
+10540,User91,This neural networks pipeline keeps failing and it's frustrating #Automation #OpenAI,388,111,2026-08-16T16:56:00,16,499,-0.6,negative
+10541,User81,"Huge breakthrough in neural networks today, this is fantastic #AI #DataScience #BigData",392,74,2026-08-06T07:57:00,7,466,0.65,positive
+10542,User33,New paper published on automation #DeepLearning #Automation #Spark,83,16,2026-08-30T12:34:00,12,99,0.05,positive
+10543,User35,"Not impressed with the latest generative AI tool, disappointing #AI #DeepLearning #Automation",14,17,2026-08-26T12:23:00,12,31,-0.6,negative
+10544,User30,New paper published on AI #DeepLearning,89,67,2026-08-08T21:36:00,21,156,0.05,positive
+10545,User120,New paper published on machine learning #AI,45,50,2026-08-04T18:04:00,18,95,0.05,positive
+10546,User38,"neural networks keeps getting better every year, so excited #OpenAI",213,122,2026-08-15T13:41:00,13,335,0.65,positive
+10547,User34,Discussion thread on automation trends #MachineLearning,46,16,2026-08-08T09:26:00,9,62,0.05,positive
+10548,User63,"Not impressed with the latest neural networks tool, disappointing #DataScience #Spark",72,48,2026-08-23T20:03:00,20,120,-0.6,negative
+10549,User38,"Not impressed with the latest generative AI tool, disappointing #DataScience",367,4,2026-08-18T12:46:00,12,371,-0.6,negative
+10550,User102,AI is transforming the future of data engineering and it's amazing #MachineLearning #Automation,362,115,2026-08-09T16:56:00,16,477,0.65,positive
+10551,User25,New paper published on data engineering #MachineLearning #Python #BigData,477,149,2026-08-01T14:21:00,14,626,0.05,positive
+10552,User69,"Huge breakthrough in generative AI today, this is fantastic #Kafka",169,14,2026-08-24T17:59:00,17,183,0.65,positive
+10553,User82,AI is transforming the future of automation and it's amazing #OpenAI,367,116,2026-08-10T14:58:00,14,483,0.65,positive
+10554,User21,Worried about AI replacing jobs in automation #Kafka,31,57,2026-08-06T23:20:00,23,88,-0.6,negative
+10555,User100,This automation pipeline keeps failing and it's frustrating #Kafka #BigData #Spark,311,80,2026-08-03T12:47:00,12,391,-0.6,negative
+10556,User120,AI is transforming the future of data engineering and it's amazing #OpenAI #DeepLearning,322,62,2026-08-08T23:27:00,23,384,0.65,positive
+10557,User68,Worried about AI replacing jobs in neural networks #MachineLearning #OpenAI,159,19,2026-08-22T16:25:00,16,178,-0.6,negative
+10558,User103,AI is transforming the future of machine learning and it's amazing #BigData #Automation #Python,342,131,2026-08-12T11:54:00,11,473,0.65,positive
+10559,User80,"robotics keeps getting better every year, so excited #BigData #Spark",26,26,2026-08-15T07:42:00,7,52,0.65,positive
+10560,User60,Reading about data engineering today #Kafka #DataScience #AI,350,8,2026-08-03T21:01:00,21,358,0.05,positive
+10561,User90,AI is transforming the future of data engineering and it's amazing #Spark #BigData #MachineLearning,48,13,2026-08-18T22:12:00,22,61,0.65,positive
+10562,User78,"Just built a great data engineering model, loving the results #MachineLearning #Automation #Spark",426,104,2026-08-25T04:55:00,4,530,0.65,positive
+10563,User115,"Just built a great neural networks model, loving the results #BigData #Spark",124,117,2026-08-06T14:38:00,14,241,0.65,positive
+10564,User29,Reading about generative AI today #Kafka,489,47,2026-08-22T12:23:00,12,536,0.05,positive
+10565,User118,This data engineering pipeline keeps failing and it's frustrating #BigData #DeepLearning,490,125,2026-08-09T19:31:00,19,615,-0.6,negative
+10566,User61,"automation keeps getting better every year, so excited #AI",416,38,2026-08-24T08:08:00,8,454,0.65,positive
+10567,User8,Discussion thread on deep learning trends #DataScience #Spark,420,0,2026-08-20T01:01:00,1,420,0.05,positive
+10568,User42,Discussion thread on AI trends #Kafka,116,81,2026-08-02T16:59:00,16,197,0.05,positive
+10569,User49,Discussion thread on neural networks trends #Kafka #Spark,145,28,2026-08-18T22:48:00,22,173,0.05,positive
+10570,User105,Reading about data engineering today #BigData #DeepLearning #AI,157,64,2026-08-07T20:25:00,20,221,0.05,positive
+10571,User70,This data engineering pipeline keeps failing and it's frustrating #BigData #Kafka,365,86,2026-08-11T21:55:00,21,451,-0.6,negative
+10572,User84,Reading about data engineering today #DataScience #Spark,466,12,2026-08-25T16:39:00,16,478,0.05,positive
+10573,User47,Attending a webinar on deep learning this week #Python #Automation,127,16,2026-08-16T11:51:00,11,143,0.05,positive
+10574,User10,"deep learning keeps getting better every year, so excited #AI",314,17,2026-08-17T20:10:00,20,331,0.65,positive
+10575,User103,Worried about AI replacing jobs in generative AI #Python,244,96,2026-08-15T03:50:00,3,340,-0.6,negative
+10576,User118,"Huge breakthrough in neural networks today, this is fantastic #Spark #Kafka",54,150,2026-08-27T02:09:00,2,204,0.65,positive
+10577,User27,Reading about AI today #Python #BigData,106,92,2026-08-11T08:02:00,8,198,0.05,positive
+10578,User92,"Not impressed with the latest generative AI tool, disappointing #MachineLearning #AI #Python",67,109,2026-08-02T01:48:00,1,176,-0.6,negative
+10579,User102,New paper published on machine learning #Kafka #OpenAI #Spark,381,14,2026-08-11T02:50:00,2,395,0.05,positive
+10580,User26,"Huge breakthrough in machine learning today, this is fantastic #BigData",167,77,2026-08-19T23:16:00,23,244,0.65,positive
+10581,User78,New paper published on AI #OpenAI #Automation,489,96,2026-08-07T12:28:00,12,585,0.05,positive
+10582,User47,New paper published on machine learning #AI,27,14,2026-08-26T21:36:00,21,41,0.05,positive
+10583,User28,AI is transforming the future of data engineering and it's amazing #DeepLearning #OpenAI #Python,73,39,2026-08-26T11:37:00,11,112,0.65,positive
+10584,User54,Worried about AI replacing jobs in automation #DataScience #Kafka,110,131,2026-08-11T15:21:00,15,241,-0.6,negative
+10585,User96,Worried about AI replacing jobs in neural networks #AI,400,60,2026-08-08T12:41:00,12,460,-0.6,negative
+10586,User93,Worried about AI replacing jobs in deep learning #DataScience #DeepLearning #Automation,369,28,2026-08-27T15:32:00,15,397,-0.6,negative
+10587,User1,New paper published on AI #BigData #OpenAI,226,22,2026-08-23T05:27:00,5,248,0.05,positive
+10588,User82,Attending a webinar on robotics this week #Spark,110,139,2026-08-08T19:25:00,19,249,0.05,positive
+10589,User46,"Just built a great data engineering model, loving the results #DeepLearning",316,111,2026-08-19T15:58:00,15,427,0.65,positive
+10590,User76,"Just built a great data engineering model, loving the results #DeepLearning #Python #MachineLearning",161,31,2026-08-09T18:56:00,18,192,0.65,positive
+10591,User36,Worried about AI replacing jobs in robotics #Python #Automation,241,132,2026-08-22T12:42:00,12,373,-0.6,negative
+10592,User9,"Just built a great neural networks model, loving the results #DataScience #DeepLearning #MachineLearning",206,25,2026-08-18T10:49:00,10,231,0.65,positive
+10593,User111,"Huge breakthrough in data engineering today, this is fantastic #Spark #BigData",427,146,2026-08-22T04:13:00,4,573,0.65,positive
+10594,User39,Worried about AI replacing jobs in generative AI #Python #Spark #BigData,80,141,2026-08-29T04:56:00,4,221,-0.6,negative
+10595,User74,Reading about neural networks today #DataScience #Spark #BigData,346,56,2026-08-27T20:27:00,20,402,0.05,positive
+10596,User18,"Just built a great automation model, loving the results #OpenAI #BigData #DataScience",459,6,2026-08-06T06:04:00,6,465,0.65,positive
+10597,User115,This neural networks pipeline keeps failing and it's frustrating #Python #Kafka,10,89,2026-08-24T17:34:00,17,99,-0.6,negative
+10598,User79,This automation pipeline keeps failing and it's frustrating #Python #MachineLearning #Spark,311,144,2026-08-18T14:50:00,14,455,-0.6,negative
+10599,User47,Discussion thread on generative AI trends #Spark,414,137,2026-08-04T01:23:00,1,551,0.05,positive
+10600,User10,"generative AI keeps getting better every year, so excited #Python #DataScience",98,53,2026-08-01T23:45:00,23,151,0.65,positive
+10601,User8,"Just built a great deep learning model, loving the results #Kafka",223,67,2026-08-10T23:30:00,23,290,0.65,positive
+10602,User56,AI is transforming the future of machine learning and it's amazing #OpenAI,428,49,2026-08-07T18:16:00,18,477,0.65,positive
+10603,User17,"Huge breakthrough in data engineering today, this is fantastic #BigData #Automation #MachineLearning",500,77,2026-08-28T04:04:00,4,577,0.65,positive
+10604,User42,AI is transforming the future of AI and it's amazing #MachineLearning,362,43,2026-08-01T23:48:00,23,405,0.65,positive
+10605,User46,"Just built a great deep learning model, loving the results #DataScience",344,50,2026-08-28T17:28:00,17,394,0.65,positive
+10606,User30,"Huge breakthrough in automation today, this is fantastic #BigData #Automation",247,6,2026-08-21T07:19:00,7,253,0.65,positive
+10607,User81,New paper published on data engineering #DataScience,377,15,2026-08-16T23:24:00,23,392,0.05,positive
+10608,User113,AI is transforming the future of robotics and it's amazing #OpenAI #AI,11,86,2026-08-20T23:29:00,23,97,0.65,positive
+10609,User23,New paper published on data engineering #OpenAI,352,98,2026-08-23T14:35:00,14,450,0.05,positive
+10610,User73,AI is transforming the future of generative AI and it's amazing #OpenAI #AI #Spark,194,104,2026-08-09T14:29:00,14,298,0.65,positive
+10611,User35,"Huge breakthrough in generative AI today, this is fantastic #Automation #DataScience #Spark",462,54,2026-08-09T16:28:00,16,516,0.65,positive
+10612,User74,Reading about neural networks today #Spark #Automation #Kafka,439,139,2026-08-08T05:04:00,5,578,0.05,positive
+10613,User55,This AI pipeline keeps failing and it's frustrating #Python,389,21,2026-08-07T18:50:00,18,410,-0.6,negative
+10614,User100,This machine learning pipeline keeps failing and it's frustrating #OpenAI #BigData #AI,68,26,2026-08-27T19:18:00,19,94,-0.6,negative
+10615,User84,AI is transforming the future of machine learning and it's amazing #BigData #Python #Kafka,188,24,2026-08-21T10:19:00,10,212,0.65,positive
+10616,User101,"automation keeps getting better every year, so excited #MachineLearning",189,52,2026-08-13T15:32:00,15,241,0.65,positive
+10617,User16,Attending a webinar on generative AI this week #Kafka #Python #Spark,23,37,2026-08-22T12:23:00,12,60,0.05,positive
+10618,User82,Discussion thread on data engineering trends #Automation,435,96,2026-08-17T00:03:00,0,531,0.05,positive
+10619,User11,Discussion thread on AI trends #AI #Python #OpenAI,435,8,2026-08-04T22:54:00,22,443,0.05,positive
+10620,User83,"Huge breakthrough in data engineering today, this is fantastic #MachineLearning #Kafka #Spark",417,30,2026-08-07T05:13:00,5,447,0.65,positive
+10621,User61,"Not impressed with the latest data engineering tool, disappointing #Spark #DataScience",439,57,2026-08-11T03:42:00,3,496,-0.6,negative
+10622,User81,AI is transforming the future of automation and it's amazing #DataScience,196,136,2026-08-03T20:54:00,20,332,0.65,positive
+10623,User104,This generative AI pipeline keeps failing and it's frustrating #MachineLearning,160,15,2026-08-22T08:59:00,8,175,-0.6,negative
+10624,User67,New paper published on automation #Python #Automation #DeepLearning,350,30,2026-08-08T07:18:00,7,380,0.05,positive
+10625,User64,This robotics pipeline keeps failing and it's frustrating #DataScience,477,68,2026-08-22T08:53:00,8,545,-0.6,negative
+10626,User48,Worried about AI replacing jobs in neural networks #Python #Spark #DataScience,194,28,2026-08-05T08:08:00,8,222,-0.6,negative
+10627,User74,New paper published on neural networks #Automation #Kafka,280,45,2026-08-18T12:33:00,12,325,0.05,positive
+10628,User59,AI is transforming the future of machine learning and it's amazing #DeepLearning #Python,322,94,2026-08-13T22:27:00,22,416,0.65,positive
+10629,User25,"Not impressed with the latest data engineering tool, disappointing #Spark #Python #DeepLearning",309,48,2026-08-17T09:35:00,9,357,-0.6,negative
+10630,User71,"Just built a great AI model, loving the results #Automation #MachineLearning #BigData",36,52,2026-08-10T12:58:00,12,88,0.65,positive
+10631,User119,"Not impressed with the latest machine learning tool, disappointing #DeepLearning",51,49,2026-08-14T01:08:00,1,100,-0.6,negative
+10632,User41,Reading about machine learning today #AI #BigData,458,145,2026-08-13T18:22:00,18,603,0.05,positive
+10633,User74,Attending a webinar on data engineering this week #Automation #OpenAI,103,45,2026-08-01T14:16:00,14,148,0.05,positive
+10634,User75,New paper published on machine learning #DeepLearning,450,131,2026-08-13T04:07:00,4,581,0.05,positive
+10635,User107,Attending a webinar on generative AI this week #AI #MachineLearning,382,69,2026-08-06T00:41:00,0,451,0.05,positive
+10636,User80,This AI pipeline keeps failing and it's frustrating #AI #Automation,272,98,2026-08-20T10:59:00,10,370,-0.6,negative
+10637,User19,"automation keeps getting better every year, so excited #DataScience #Spark #OpenAI",83,40,2026-08-25T17:40:00,17,123,0.65,positive
+10638,User64,AI is transforming the future of machine learning and it's amazing #MachineLearning #DataScience #Kafka,211,118,2026-08-26T12:10:00,12,329,0.65,positive
+10639,User119,Worried about AI replacing jobs in data engineering #AI #DeepLearning #BigData,387,1,2026-08-11T18:35:00,18,388,-0.6,negative
+10640,User50,"robotics keeps getting better every year, so excited #MachineLearning",219,85,2026-08-27T19:19:00,19,304,0.65,positive
+10641,User31,Worried about AI replacing jobs in robotics #AI,472,9,2026-08-23T21:30:00,21,481,-0.6,negative
+10642,User100,Worried about AI replacing jobs in automation #MachineLearning,169,22,2026-08-04T17:44:00,17,191,-0.6,negative
+10643,User88,AI is transforming the future of robotics and it's amazing #Kafka #MachineLearning,79,44,2026-08-12T02:55:00,2,123,0.65,positive
+10644,User76,"generative AI keeps getting better every year, so excited #OpenAI",23,127,2026-08-08T13:16:00,13,150,0.65,positive
+10645,User14,"Just built a great neural networks model, loving the results #AI #Kafka #Automation",266,48,2026-08-03T04:10:00,4,314,0.65,positive
+10646,User85,Worried about AI replacing jobs in generative AI #DeepLearning,232,23,2026-08-12T18:51:00,18,255,-0.6,negative
+10647,User26,"Huge breakthrough in generative AI today, this is fantastic #DeepLearning",208,22,2026-08-05T14:17:00,14,230,0.65,positive
+10648,User29,This automation pipeline keeps failing and it's frustrating #Spark #DeepLearning,19,102,2026-08-16T00:38:00,0,121,-0.6,negative
+10649,User8,"Huge breakthrough in machine learning today, this is fantastic #DataScience",278,49,2026-08-04T04:57:00,4,327,0.65,positive
+10650,User13,Reading about automation today #OpenAI #Python,342,126,2026-08-09T19:55:00,19,468,0.05,positive
+10651,User9,This data engineering pipeline keeps failing and it's frustrating #MachineLearning #Python,247,111,2026-08-07T10:20:00,10,358,-0.6,negative
+10652,User31,AI is transforming the future of machine learning and it's amazing #DataScience #AI #MachineLearning,27,56,2026-08-15T15:45:00,15,83,0.65,positive
+10653,User92,"Not impressed with the latest neural networks tool, disappointing #Spark #DataScience",423,70,2026-08-19T12:10:00,12,493,-0.6,negative
+10654,User70,"Huge breakthrough in data engineering today, this is fantastic #DataScience #AI",371,110,2026-08-05T03:54:00,3,481,0.65,positive
+10655,User86,New paper published on generative AI #Kafka #MachineLearning #OpenAI,113,0,2026-08-05T04:26:00,4,113,0.05,positive
+10656,User111,"neural networks keeps getting better every year, so excited #Kafka",478,150,2026-08-26T10:37:00,10,628,0.65,positive
+10657,User17,"Just built a great robotics model, loving the results #OpenAI #DeepLearning",191,90,2026-08-16T08:31:00,8,281,0.65,positive
+10658,User17,"Not impressed with the latest automation tool, disappointing #Automation",257,5,2026-08-23T21:17:00,21,262,-0.6,negative
+10659,User16,"Just built a great automation model, loving the results #OpenAI",394,114,2026-08-13T13:14:00,13,508,0.65,positive
+10660,User38,Attending a webinar on generative AI this week #OpenAI,150,102,2026-08-25T18:14:00,18,252,0.05,positive
+10661,User111,Reading about deep learning today #Python #Spark,183,78,2026-08-21T13:44:00,13,261,0.05,positive
+10662,User95,Worried about AI replacing jobs in generative AI #DeepLearning #Automation,346,65,2026-08-30T18:59:00,18,411,-0.6,negative
+10663,User47,"Not impressed with the latest AI tool, disappointing #Kafka",209,8,2026-08-16T13:17:00,13,217,-0.6,negative
+10664,User14,"neural networks keeps getting better every year, so excited #Spark",368,47,2026-08-22T11:48:00,11,415,0.65,positive
+10665,User92,This robotics pipeline keeps failing and it's frustrating #Kafka,67,86,2026-08-02T23:12:00,23,153,-0.6,negative
+10666,User83,Attending a webinar on neural networks this week #BigData #DataScience,93,40,2026-08-08T00:06:00,0,133,0.05,positive
+10667,User55,AI is transforming the future of data engineering and it's amazing #DeepLearning #Spark #AI,217,49,2026-08-03T10:52:00,10,266,0.65,positive
+10668,User51,"robotics keeps getting better every year, so excited #MachineLearning #Automation #Kafka",304,65,2026-08-24T05:36:00,5,369,0.65,positive
+10669,User15,Attending a webinar on AI this week #DataScience #BigData,389,82,2026-08-17T22:04:00,22,471,0.05,positive
+10670,User13,AI is transforming the future of deep learning and it's amazing #DeepLearning #Automation #AI,102,61,2026-08-14T08:54:00,8,163,0.65,positive
+10671,User83,"neural networks keeps getting better every year, so excited #AI",435,23,2026-08-24T11:38:00,11,458,0.65,positive
+10672,User54,Worried about AI replacing jobs in robotics #DeepLearning,468,92,2026-08-15T04:03:00,4,560,-0.6,negative
+10673,User84,"Just built a great generative AI model, loving the results #Spark",438,108,2026-08-11T22:33:00,22,546,0.65,positive
+10674,User61,"Just built a great automation model, loving the results #AI #OpenAI",397,122,2026-08-13T06:01:00,6,519,0.65,positive
+10675,User77,Worried about AI replacing jobs in robotics #BigData,319,44,2026-08-11T08:51:00,8,363,-0.6,negative
+10676,User113,Attending a webinar on automation this week #BigData #DataScience #MachineLearning,46,79,2026-08-21T01:03:00,1,125,0.05,positive
+10677,User48,Worried about AI replacing jobs in machine learning #AI #MachineLearning #OpenAI,2,110,2026-08-09T08:46:00,8,112,-0.6,negative
+10678,User13,"Huge breakthrough in neural networks today, this is fantastic #Spark #OpenAI",261,135,2026-08-08T16:50:00,16,396,0.65,positive
+10679,User46,This deep learning pipeline keeps failing and it's frustrating #OpenAI #DeepLearning,434,85,2026-08-18T15:17:00,15,519,-0.6,negative
+10680,User47,"Not impressed with the latest neural networks tool, disappointing #Kafka #Automation #MachineLearning",336,136,2026-08-06T04:56:00,4,472,-0.6,negative
+10681,User3,Worried about AI replacing jobs in data engineering #MachineLearning #Spark,489,92,2026-08-19T23:55:00,23,581,-0.6,negative
+10682,User52,AI is transforming the future of robotics and it's amazing #DeepLearning,132,59,2026-08-17T09:59:00,9,191,0.65,positive
+10683,User49,"Huge breakthrough in AI today, this is fantastic #Spark",112,82,2026-08-02T07:24:00,7,194,0.65,positive
+10684,User23,Reading about deep learning today #OpenAI #Python,34,44,2026-08-25T15:32:00,15,78,0.05,positive
+10685,User71,Discussion thread on neural networks trends #OpenAI #DataScience #Automation,273,34,2026-08-14T05:12:00,5,307,0.05,positive
+10686,User87,Reading about automation today #Kafka,102,139,2026-08-14T16:47:00,16,241,0.05,positive
+10687,User58,New paper published on neural networks #Python #Spark #DataScience,281,42,2026-08-23T11:07:00,11,323,0.05,positive
+10688,User120,Reading about AI today #Automation,352,131,2026-08-27T22:33:00,22,483,0.05,positive
+10689,User80,Discussion thread on AI trends #DataScience,455,58,2026-08-01T17:12:00,17,513,0.05,positive
+10690,User44,"Huge breakthrough in neural networks today, this is fantastic #DeepLearning #DataScience #Automation",308,6,2026-08-29T20:50:00,20,314,0.65,positive
+10691,User93,"AI keeps getting better every year, so excited #MachineLearning",61,12,2026-08-29T09:44:00,9,73,0.65,positive
+10692,User78,"deep learning keeps getting better every year, so excited #Kafka #Automation #MachineLearning",407,71,2026-08-21T00:48:00,0,478,0.65,positive
+10693,User12,Worried about AI replacing jobs in deep learning #Kafka,485,141,2026-08-15T00:18:00,0,626,-0.6,negative
+10694,User101,"Not impressed with the latest robotics tool, disappointing #BigData",412,116,2026-08-18T03:26:00,3,528,-0.6,negative
+10695,User89,New paper published on deep learning #Kafka #OpenAI,156,101,2026-08-07T01:29:00,1,257,0.05,positive
+10696,User66,AI is transforming the future of neural networks and it's amazing #Python,178,128,2026-08-22T00:04:00,0,306,0.65,positive
+10697,User64,"Not impressed with the latest data engineering tool, disappointing #Spark #BigData #DeepLearning",374,103,2026-08-16T19:29:00,19,477,-0.6,negative
+10698,User84,"Just built a great deep learning model, loving the results #DataScience #Python",369,63,2026-08-10T00:06:00,0,432,0.65,positive
+10699,User37,AI is transforming the future of machine learning and it's amazing #Kafka #Spark,192,148,2026-08-22T22:54:00,22,340,0.65,positive
+10700,User71,Discussion thread on automation trends #AI #Kafka,282,144,2026-08-07T06:33:00,6,426,0.05,positive
+10701,User56,Worried about AI replacing jobs in generative AI #DataScience #Kafka #MachineLearning,427,111,2026-08-22T06:09:00,6,538,-0.6,negative
+10702,User115,AI is transforming the future of data engineering and it's amazing #BigData,76,81,2026-08-24T04:34:00,4,157,0.65,positive
+10703,User93,"Huge breakthrough in machine learning today, this is fantastic #Kafka #DataScience",295,48,2026-08-09T07:50:00,7,343,0.65,positive
+10704,User120,"Just built a great machine learning model, loving the results #OpenAI #Python",446,51,2026-08-01T18:15:00,18,497,0.65,positive
+10705,User23,AI is transforming the future of deep learning and it's amazing #BigData #DeepLearning #Kafka,331,88,2026-08-27T01:41:00,1,419,0.65,positive
+10706,User33,"Huge breakthrough in automation today, this is fantastic #DataScience",281,25,2026-08-07T23:32:00,23,306,0.65,positive
+10707,User33,AI is transforming the future of deep learning and it's amazing #DeepLearning,129,22,2026-08-04T19:49:00,19,151,0.65,positive
+10708,User48,"Just built a great robotics model, loving the results #AI #Kafka",124,105,2026-08-11T03:46:00,3,229,0.65,positive
+10709,User58,"Just built a great neural networks model, loving the results #MachineLearning",356,125,2026-08-05T22:07:00,22,481,0.65,positive
+10710,User97,New paper published on AI #Spark,198,105,2026-08-15T06:19:00,6,303,0.05,positive
+10711,User80,Attending a webinar on generative AI this week #Kafka,485,131,2026-08-04T07:23:00,7,616,0.05,positive
+10712,User116,Attending a webinar on data engineering this week #OpenAI #Python #Kafka,456,104,2026-08-19T11:48:00,11,560,0.05,positive
+10713,User88,AI is transforming the future of machine learning and it's amazing #DeepLearning #Python #Automation,188,110,2026-08-04T15:13:00,15,298,0.65,positive
+10714,User105,Reading about deep learning today #Python #DataScience,67,76,2026-08-22T09:21:00,9,143,0.05,positive
+10715,User38,"Just built a great AI model, loving the results #BigData",11,97,2026-08-30T22:29:00,22,108,0.65,positive
+10716,User7,"machine learning keeps getting better every year, so excited #Automation #DeepLearning #Spark",343,20,2026-08-06T19:59:00,19,363,0.65,positive
+10717,User94,"machine learning keeps getting better every year, so excited #OpenAI #DataScience",328,17,2026-08-05T04:09:00,4,345,0.65,positive
+10718,User51,Discussion thread on data engineering trends #Spark,325,128,2026-08-29T01:01:00,1,453,0.05,positive
+10719,User63,Reading about robotics today #OpenAI,495,113,2026-08-14T15:47:00,15,608,0.05,positive
+10720,User62,"Huge breakthrough in deep learning today, this is fantastic #BigData",330,96,2026-08-15T15:27:00,15,426,0.65,positive
+10721,User58,"AI keeps getting better every year, so excited #Automation",134,51,2026-08-30T15:48:00,15,185,0.65,positive
+10722,User20,"Huge breakthrough in data engineering today, this is fantastic #Kafka #Spark #DataScience",480,69,2026-08-20T08:37:00,8,549,0.65,positive
+10723,User11,New paper published on AI #OpenAI,17,113,2026-08-19T22:38:00,22,130,0.05,positive
+10724,User39,Discussion thread on machine learning trends #Python #MachineLearning #OpenAI,259,4,2026-08-19T10:27:00,10,263,0.05,positive
+10725,User4,Discussion thread on machine learning trends #Python,77,128,2026-08-01T17:15:00,17,205,0.05,positive
+10726,User67,AI is transforming the future of deep learning and it's amazing #OpenAI,36,35,2026-08-28T12:07:00,12,71,0.65,positive
+10727,User73,"Huge breakthrough in neural networks today, this is fantastic #Kafka #DeepLearning",380,24,2026-08-03T03:14:00,3,404,0.65,positive
+10728,User55,"Not impressed with the latest machine learning tool, disappointing #Kafka #AI",32,146,2026-08-05T13:42:00,13,178,-0.6,negative
+10729,User37,Discussion thread on generative AI trends #Python #Kafka #DataScience,233,149,2026-08-01T23:21:00,23,382,0.05,positive
+10730,User30,"robotics keeps getting better every year, so excited #OpenAI #MachineLearning #Automation",188,29,2026-08-16T11:49:00,11,217,0.65,positive
+10731,User36,"generative AI keeps getting better every year, so excited #Kafka #Spark #DeepLearning",304,61,2026-08-24T08:24:00,8,365,0.65,positive
+10732,User83,Attending a webinar on data engineering this week #Automation #DeepLearning,65,142,2026-08-25T22:09:00,22,207,0.05,positive
+10733,User60,"deep learning keeps getting better every year, so excited #DataScience #Spark #Kafka",89,24,2026-08-19T04:02:00,4,113,0.65,positive
+10734,User115,AI is transforming the future of generative AI and it's amazing #Python,97,100,2026-08-02T23:06:00,23,197,0.65,positive
+10735,User85,"Huge breakthrough in automation today, this is fantastic #Spark",291,102,2026-08-19T07:28:00,7,393,0.65,positive
+10736,User60,Worried about AI replacing jobs in neural networks #DataScience #OpenAI,18,20,2026-08-26T07:30:00,7,38,-0.6,negative
+10737,User61,AI is transforming the future of automation and it's amazing #OpenAI #DataScience #Spark,170,79,2026-08-21T21:34:00,21,249,0.65,positive
+10738,User68,Worried about AI replacing jobs in data engineering #DataScience #Automation #MachineLearning,108,122,2026-08-26T20:23:00,20,230,-0.6,negative
+10739,User39,AI is transforming the future of neural networks and it's amazing #DataScience #Automation #DeepLearning,42,68,2026-08-14T03:13:00,3,110,0.65,positive
+10740,User57,AI is transforming the future of robotics and it's amazing #DeepLearning #BigData,441,96,2026-08-01T13:48:00,13,537,0.65,positive
+10741,User4,Reading about automation today #BigData,303,25,2026-08-11T22:41:00,22,328,0.05,positive
+10742,User28,This robotics pipeline keeps failing and it's frustrating #OpenAI #MachineLearning #DeepLearning,496,14,2026-08-14T01:11:00,1,510,-0.6,negative
+10743,User92,AI is transforming the future of AI and it's amazing #Automation,300,124,2026-08-29T14:40:00,14,424,0.65,positive
+10744,User45,This robotics pipeline keeps failing and it's frustrating #OpenAI,204,41,2026-08-13T02:22:00,2,245,-0.6,negative
+10745,User119,"neural networks keeps getting better every year, so excited #BigData #DeepLearning #Kafka",256,95,2026-08-03T03:46:00,3,351,0.65,positive
+10746,User100,Worried about AI replacing jobs in automation #Kafka #Automation,268,114,2026-08-20T13:44:00,13,382,-0.6,negative
+10747,User96,"Huge breakthrough in machine learning today, this is fantastic #Spark #MachineLearning #DataScience",350,32,2026-08-12T07:07:00,7,382,0.65,positive
+10748,User62,"Just built a great neural networks model, loving the results #Spark #DeepLearning",406,11,2026-08-21T06:44:00,6,417,0.65,positive
+10749,User9,Worried about AI replacing jobs in robotics #DataScience,231,7,2026-08-04T11:01:00,11,238,-0.6,negative
+10750,User109,"Huge breakthrough in generative AI today, this is fantastic #BigData #OpenAI #MachineLearning",70,12,2026-08-11T13:23:00,13,82,0.65,positive
+10751,User8,Worried about AI replacing jobs in generative AI #Kafka #Python,330,129,2026-08-18T23:31:00,23,459,-0.6,negative
+10752,User4,AI is transforming the future of neural networks and it's amazing #BigData #DeepLearning #OpenAI,48,14,2026-08-01T13:09:00,13,62,0.65,positive
+10753,User41,Attending a webinar on generative AI this week #Python #Spark #MachineLearning,6,98,2026-08-27T09:57:00,9,104,0.05,positive
+10754,User13,This machine learning pipeline keeps failing and it's frustrating #MachineLearning #Python #BigData,207,26,2026-08-23T09:22:00,9,233,-0.6,negative
+10755,User6,This robotics pipeline keeps failing and it's frustrating #Automation #AI #MachineLearning,310,107,2026-08-14T20:13:00,20,417,-0.6,negative
+10756,User60,Discussion thread on neural networks trends #AI #Python #DeepLearning,193,26,2026-08-27T06:12:00,6,219,0.05,positive
+10757,User52,AI is transforming the future of deep learning and it's amazing #Kafka #OpenAI,467,144,2026-08-26T19:01:00,19,611,0.65,positive
+10758,User94,Reading about data engineering today #Python #OpenAI,244,77,2026-08-29T08:48:00,8,321,0.05,positive
+10759,User42,"Not impressed with the latest AI tool, disappointing #Kafka",363,15,2026-08-07T17:26:00,17,378,-0.6,negative
+10760,User94,New paper published on automation #DataScience,195,57,2026-08-11T20:03:00,20,252,0.05,positive
+10761,User67,Discussion thread on deep learning trends #Automation #DataScience #MachineLearning,453,98,2026-08-20T23:52:00,23,551,0.05,positive
+10762,User3,New paper published on automation #DataScience #OpenAI,270,69,2026-08-17T20:53:00,20,339,0.05,positive
+10763,User107,Reading about AI today #DataScience,280,16,2026-08-19T01:49:00,1,296,0.05,positive
+10764,User70,AI is transforming the future of data engineering and it's amazing #BigData,358,10,2026-08-14T19:36:00,19,368,0.65,positive
+10765,User28,Worried about AI replacing jobs in robotics #OpenAI #DataScience,454,39,2026-08-06T11:52:00,11,493,-0.6,negative
+10766,User115,New paper published on automation #AI,392,46,2026-08-05T10:35:00,10,438,0.05,positive
+10767,User88,Discussion thread on neural networks trends #DataScience,74,145,2026-08-18T20:48:00,20,219,0.05,positive
+10768,User32,"neural networks keeps getting better every year, so excited #OpenAI #DataScience #Automation",355,5,2026-08-07T22:02:00,22,360,0.65,positive
+10769,User42,Reading about AI today #Kafka,50,72,2026-08-14T22:36:00,22,122,0.05,positive
+10770,User52,Attending a webinar on machine learning this week #DataScience #Python #MachineLearning,450,46,2026-08-16T21:12:00,21,496,0.05,positive
+10771,User17,AI is transforming the future of generative AI and it's amazing #MachineLearning,126,116,2026-08-04T19:09:00,19,242,0.65,positive
+10772,User26,Attending a webinar on generative AI this week #Python #MachineLearning #AI,123,150,2026-08-16T12:04:00,12,273,0.05,positive
+10773,User9,Discussion thread on data engineering trends #OpenAI #Spark,149,107,2026-08-18T12:35:00,12,256,0.05,positive
+10774,User37,AI is transforming the future of neural networks and it's amazing #BigData,96,123,2026-08-21T05:20:00,5,219,0.65,positive
+10775,User57,AI is transforming the future of machine learning and it's amazing #Python,441,109,2026-08-26T19:07:00,19,550,0.65,positive
+10776,User56,"data engineering keeps getting better every year, so excited #MachineLearning #DeepLearning",97,1,2026-08-24T06:18:00,6,98,0.65,positive
+10777,User85,This machine learning pipeline keeps failing and it's frustrating #BigData #MachineLearning,79,78,2026-08-18T20:35:00,20,157,-0.6,negative
+10778,User117,"Just built a great robotics model, loving the results #Spark #Python",445,150,2026-08-14T02:17:00,2,595,0.65,positive
+10779,User65,"Not impressed with the latest automation tool, disappointing #DataScience",446,4,2026-08-30T03:20:00,3,450,-0.6,negative
+10780,User55,AI is transforming the future of neural networks and it's amazing #OpenAI #Python,385,5,2026-08-10T17:21:00,17,390,0.65,positive
+10781,User49,This deep learning pipeline keeps failing and it's frustrating #DeepLearning #MachineLearning #OpenAI,103,106,2026-08-15T02:47:00,2,209,-0.6,negative
+10782,User9,"Huge breakthrough in machine learning today, this is fantastic #BigData #Spark #Automation",157,132,2026-08-11T06:37:00,6,289,0.65,positive
+10783,User81,"Huge breakthrough in data engineering today, this is fantastic #Spark #BigData",302,129,2026-08-11T21:59:00,21,431,0.65,positive
+10784,User94,This neural networks pipeline keeps failing and it's frustrating #Kafka #BigData,228,9,2026-08-23T11:07:00,11,237,-0.6,negative
+10785,User101,New paper published on neural networks #AI #DataScience #Automation,40,55,2026-08-14T13:31:00,13,95,0.05,positive
+10786,User94,"machine learning keeps getting better every year, so excited #OpenAI #BigData",33,44,2026-08-02T22:28:00,22,77,0.65,positive
+10787,User9,Reading about automation today #DataScience #OpenAI,72,141,2026-08-17T10:49:00,10,213,0.05,positive
+10788,User63,"Huge breakthrough in AI today, this is fantastic #MachineLearning",166,8,2026-08-04T14:05:00,14,174,0.65,positive
+10789,User24,Attending a webinar on deep learning this week #Kafka #Spark #Python,239,46,2026-08-13T03:37:00,3,285,0.05,positive
+10790,User39,"Huge breakthrough in machine learning today, this is fantastic #Spark #DataScience #BigData",498,92,2026-08-09T16:13:00,16,590,0.65,positive
+10791,User80,New paper published on generative AI #MachineLearning #OpenAI #Spark,431,81,2026-08-11T11:56:00,11,512,0.05,positive
+10792,User74,"Huge breakthrough in robotics today, this is fantastic #BigData #Spark #Kafka",360,56,2026-08-11T13:44:00,13,416,0.65,positive
+10793,User74,"machine learning keeps getting better every year, so excited #Python #Spark #BigData",449,7,2026-08-01T10:52:00,10,456,0.65,positive
+10794,User101,"Not impressed with the latest deep learning tool, disappointing #Spark #Python",332,140,2026-08-20T19:26:00,19,472,-0.6,negative
+10795,User61,Worried about AI replacing jobs in deep learning #AI #Python,398,0,2026-08-15T20:16:00,20,398,-0.6,negative
+10796,User63,Discussion thread on automation trends #DataScience #Python #DeepLearning,306,47,2026-08-25T08:30:00,8,353,0.05,positive
+10797,User38,New paper published on AI #BigData #Spark,178,49,2026-08-05T08:46:00,8,227,0.05,positive
+10798,User19,Worried about AI replacing jobs in neural networks #Kafka #MachineLearning,493,24,2026-08-27T19:17:00,19,517,-0.6,negative
+10799,User85,"Huge breakthrough in neural networks today, this is fantastic #Python #Kafka",486,3,2026-08-12T14:26:00,14,489,0.65,positive
+10800,User4,"Just built a great automation model, loving the results #DeepLearning #BigData",373,79,2026-08-16T13:46:00,13,452,0.65,positive
+10801,User82,"neural networks keeps getting better every year, so excited #DeepLearning",188,87,2026-08-06T07:27:00,7,275,0.65,positive
+10802,User40,"Just built a great robotics model, loving the results #Kafka #MachineLearning",187,134,2026-08-23T16:50:00,16,321,0.65,positive
+10803,User102,"Not impressed with the latest generative AI tool, disappointing #Spark",134,143,2026-08-29T08:30:00,8,277,-0.6,negative
+10804,User89,"Huge breakthrough in automation today, this is fantastic #DataScience #DeepLearning",50,60,2026-08-28T16:27:00,16,110,0.65,positive
+10805,User69,New paper published on deep learning #DeepLearning,348,126,2026-08-06T22:48:00,22,474,0.05,positive
+10806,User67,"Huge breakthrough in deep learning today, this is fantastic #AI #DeepLearning",243,48,2026-08-20T08:27:00,8,291,0.65,positive
+10807,User16,"automation keeps getting better every year, so excited #MachineLearning",248,38,2026-08-16T21:29:00,21,286,0.65,positive
+10808,User39,Worried about AI replacing jobs in generative AI #MachineLearning #OpenAI #DataScience,111,149,2026-08-06T18:14:00,18,260,-0.6,negative
+10809,User27,Attending a webinar on neural networks this week #Python,490,88,2026-08-19T02:42:00,2,578,0.05,positive
+10810,User100,"Huge breakthrough in machine learning today, this is fantastic #DeepLearning #Automation",494,57,2026-08-21T22:55:00,22,551,0.65,positive
+10811,User93,Worried about AI replacing jobs in deep learning #DataScience #MachineLearning,328,81,2026-08-26T10:15:00,10,409,-0.6,negative
+10812,User120,AI is transforming the future of AI and it's amazing #MachineLearning #OpenAI,320,98,2026-08-14T12:28:00,12,418,0.65,positive
+10813,User107,Attending a webinar on automation this week #Kafka #Spark,12,48,2026-08-25T19:25:00,19,60,0.05,positive
+10814,User94,Worried about AI replacing jobs in generative AI #Spark,484,16,2026-08-09T13:34:00,13,500,-0.6,negative
+10815,User77,Reading about robotics today #AI #DataScience #Automation,338,64,2026-08-20T23:00:00,23,402,0.05,positive
+10816,User18,AI is transforming the future of AI and it's amazing #Automation #Kafka,236,53,2026-08-13T07:50:00,7,289,0.65,positive
+10817,User86,New paper published on AI #DataScience,345,149,2026-08-29T22:32:00,22,494,0.05,positive
+10818,User90,"Huge breakthrough in generative AI today, this is fantastic #Spark #AI",29,129,2026-08-20T01:48:00,1,158,0.65,positive
+10819,User64,Reading about generative AI today #Automation #AI,394,125,2026-08-07T04:35:00,4,519,0.05,positive
+10820,User35,"Huge breakthrough in generative AI today, this is fantastic #OpenAI",43,61,2026-08-13T15:39:00,15,104,0.65,positive
+10821,User3,"deep learning keeps getting better every year, so excited #MachineLearning #OpenAI #DataScience",47,84,2026-08-07T06:10:00,6,131,0.65,positive
+10822,User5,"Just built a great generative AI model, loving the results #AI",47,122,2026-08-09T06:00:00,6,169,0.65,positive
+10823,User72,"Not impressed with the latest deep learning tool, disappointing #DeepLearning #BigData #Kafka",348,118,2026-08-07T12:27:00,12,466,-0.6,negative
+10824,User116,New paper published on deep learning #Spark,60,53,2026-08-16T04:57:00,4,113,0.05,positive
+10825,User35,AI is transforming the future of AI and it's amazing #Spark #OpenAI #DataScience,301,1,2026-08-30T20:31:00,20,302,0.65,positive
+10826,User54,This generative AI pipeline keeps failing and it's frustrating #AI #DataScience #Spark,34,110,2026-08-29T14:14:00,14,144,-0.6,negative
+10827,User39,"automation keeps getting better every year, so excited #BigData #DataScience #Automation",497,23,2026-08-17T21:42:00,21,520,0.65,positive
+10828,User76,"robotics keeps getting better every year, so excited #MachineLearning #BigData #Python",61,93,2026-08-08T23:08:00,23,154,0.65,positive
+10829,User87,AI is transforming the future of automation and it's amazing #AI,165,14,2026-08-22T04:08:00,4,179,0.65,positive
+10830,User50,New paper published on robotics #DeepLearning #Python #Kafka,59,59,2026-08-21T05:19:00,5,118,0.05,positive
+10831,User8,"robotics keeps getting better every year, so excited #Spark",217,55,2026-08-07T14:30:00,14,272,0.65,positive
+10832,User2,"Huge breakthrough in machine learning today, this is fantastic #Automation #Python #DataScience",215,104,2026-08-27T18:52:00,18,319,0.65,positive
+10833,User115,AI is transforming the future of deep learning and it's amazing #DeepLearning #Python #Spark,166,23,2026-08-27T01:47:00,1,189,0.65,positive
+10834,User3,"Just built a great neural networks model, loving the results #OpenAI #Spark #MachineLearning",56,64,2026-08-28T13:58:00,13,120,0.65,positive
+10835,User42,"Just built a great robotics model, loving the results #OpenAI #Spark #AI",286,52,2026-08-06T15:40:00,15,338,0.65,positive
+10836,User88,"automation keeps getting better every year, so excited #Automation #DataScience #Kafka",141,114,2026-08-27T15:57:00,15,255,0.65,positive
+10837,User22,New paper published on deep learning #Kafka #Python,300,49,2026-08-28T16:15:00,16,349,0.05,positive
+10838,User110,"Just built a great automation model, loving the results #Spark #DataScience #BigData",243,101,2026-08-19T09:03:00,9,344,0.65,positive
+10839,User118,"automation keeps getting better every year, so excited #BigData",268,85,2026-08-09T00:34:00,0,353,0.65,positive
+10840,User66,Attending a webinar on neural networks this week #DataScience #Automation,269,52,2026-08-21T23:14:00,23,321,0.05,positive
+10841,User9,"generative AI keeps getting better every year, so excited #OpenAI #Kafka #AI",492,66,2026-08-09T11:39:00,11,558,0.65,positive
+10842,User32,AI is transforming the future of neural networks and it's amazing #OpenAI #Python,149,71,2026-08-28T05:25:00,5,220,0.65,positive
+10843,User73,Reading about AI today #Automation #MachineLearning #AI,132,135,2026-08-08T11:27:00,11,267,0.05,positive
+10844,User97,"Huge breakthrough in robotics today, this is fantastic #DeepLearning",412,87,2026-08-25T18:30:00,18,499,0.65,positive
+10845,User39,This neural networks pipeline keeps failing and it's frustrating #MachineLearning #BigData,363,25,2026-08-26T04:02:00,4,388,-0.6,negative
+10846,User100,Discussion thread on machine learning trends #Kafka #Automation,22,21,2026-08-11T15:41:00,15,43,0.05,positive
+10847,User81,This automation pipeline keeps failing and it's frustrating #DataScience #BigData #Spark,84,132,2026-08-12T06:36:00,6,216,-0.6,negative
+10848,User48,Worried about AI replacing jobs in AI #MachineLearning #OpenAI #DataScience,263,131,2026-08-12T00:04:00,0,394,-0.6,negative
+10849,User107,"Not impressed with the latest AI tool, disappointing #BigData #Python #DataScience",44,4,2026-08-17T22:44:00,22,48,-0.6,negative
+10850,User17,New paper published on AI #Automation,155,75,2026-08-09T08:34:00,8,230,0.05,positive
+10851,User23,Reading about automation today #DataScience #BigData #Automation,68,114,2026-08-15T12:39:00,12,182,0.05,positive
+10852,User18,"Huge breakthrough in automation today, this is fantastic #DataScience",282,82,2026-08-18T12:38:00,12,364,0.65,positive
+10853,User120,This neural networks pipeline keeps failing and it's frustrating #MachineLearning #OpenAI,233,24,2026-08-28T13:59:00,13,257,-0.6,negative
+10854,User111,Reading about neural networks today #Kafka #MachineLearning #DataScience,208,4,2026-08-15T15:44:00,15,212,0.05,positive
+10855,User8,Worried about AI replacing jobs in automation #BigData,74,70,2026-08-15T10:35:00,10,144,-0.6,negative
+10856,User84,Discussion thread on robotics trends #Spark #DataScience,415,11,2026-08-21T23:08:00,23,426,0.05,positive
+10857,User92,"AI keeps getting better every year, so excited #OpenAI #MachineLearning #Spark",355,135,2026-08-17T01:50:00,1,490,0.65,positive
+10858,User114,"automation keeps getting better every year, so excited #OpenAI #Spark #Python",36,78,2026-08-07T06:42:00,6,114,0.65,positive
+10859,User104,"Not impressed with the latest AI tool, disappointing #BigData",474,135,2026-08-02T19:57:00,19,609,-0.6,negative
+10860,User118,"Just built a great machine learning model, loving the results #OpenAI #Automation",127,26,2026-08-07T01:38:00,1,153,0.65,positive
+10861,User2,Attending a webinar on AI this week #Automation #AI #DeepLearning,370,60,2026-08-11T06:10:00,6,430,0.05,positive
+10862,User110,New paper published on data engineering #OpenAI #DataScience,461,147,2026-08-25T00:08:00,0,608,0.05,positive
+10863,User72,"Huge breakthrough in neural networks today, this is fantastic #AI #DeepLearning",374,124,2026-08-14T20:15:00,20,498,0.65,positive
+10864,User73,Reading about robotics today #BigData #DataScience,306,135,2026-08-06T21:08:00,21,441,0.05,positive
+10865,User62,AI is transforming the future of AI and it's amazing #Python #OpenAI #DataScience,365,101,2026-08-16T08:48:00,8,466,0.65,positive
+10866,User12,AI is transforming the future of robotics and it's amazing #Python #AI #MachineLearning,291,102,2026-08-04T11:23:00,11,393,0.65,positive
+10867,User40,"robotics keeps getting better every year, so excited #Python #MachineLearning #Automation",271,138,2026-08-27T09:34:00,9,409,0.65,positive
+10868,User45,"Just built a great machine learning model, loving the results #MachineLearning #BigData",364,32,2026-08-24T04:43:00,4,396,0.65,positive
+10869,User29,"Not impressed with the latest deep learning tool, disappointing #DeepLearning",174,5,2026-08-11T22:26:00,22,179,-0.6,negative
+10870,User118,"generative AI keeps getting better every year, so excited #AI",344,143,2026-08-14T16:19:00,16,487,0.65,positive
+10871,User110,"robotics keeps getting better every year, so excited #Automation #DataScience #Python",146,102,2026-08-22T02:40:00,2,248,0.65,positive
+10872,User30,"Huge breakthrough in robotics today, this is fantastic #Spark #DataScience #AI",138,94,2026-08-08T23:57:00,23,232,0.65,positive
+10873,User77,Reading about neural networks today #AI #Spark,384,28,2026-08-18T15:06:00,15,412,0.05,positive
+10874,User102,Discussion thread on data engineering trends #Spark #Kafka,494,5,2026-08-09T00:03:00,0,499,0.05,positive
+10875,User14,Worried about AI replacing jobs in deep learning #OpenAI #Spark,1,95,2026-08-23T20:10:00,20,96,-0.6,negative
+10876,User69,"Huge breakthrough in AI today, this is fantastic #Kafka #Spark #Automation",135,143,2026-08-04T09:57:00,9,278,0.65,positive
+10877,User54,Worried about AI replacing jobs in AI #OpenAI #BigData #Kafka,12,75,2026-08-16T18:14:00,18,87,-0.6,negative
+10878,User71,"AI keeps getting better every year, so excited #Automation",362,135,2026-08-11T18:27:00,18,497,0.65,positive
+10879,User19,Reading about neural networks today #Spark #MachineLearning #Kafka,490,19,2026-08-05T11:07:00,11,509,0.05,positive
+10880,User44,Attending a webinar on automation this week #DeepLearning #DataScience,419,121,2026-08-24T14:22:00,14,540,0.05,positive
+10881,User110,Discussion thread on deep learning trends #Automation #OpenAI,12,138,2026-08-04T20:44:00,20,150,0.05,positive
+10882,User24,"Not impressed with the latest robotics tool, disappointing #DataScience",209,105,2026-08-16T15:17:00,15,314,-0.6,negative
+10883,User17,Discussion thread on machine learning trends #DeepLearning #AI,65,65,2026-08-25T19:02:00,19,130,0.05,positive
+10884,User8,"Just built a great neural networks model, loving the results #AI #Automation #Spark",220,67,2026-08-01T20:14:00,20,287,0.65,positive
+10885,User30,AI is transforming the future of deep learning and it's amazing #DeepLearning #MachineLearning,114,25,2026-08-05T21:35:00,21,139,0.65,positive
+10886,User102,AI is transforming the future of robotics and it's amazing #BigData #Spark,205,120,2026-08-08T09:18:00,9,325,0.65,positive
+10887,User13,Discussion thread on machine learning trends #Python #DataScience,231,143,2026-08-29T13:02:00,13,374,0.05,positive
+10888,User11,Reading about neural networks today #DeepLearning,313,105,2026-08-06T20:08:00,20,418,0.05,positive
+10889,User120,This robotics pipeline keeps failing and it's frustrating #DataScience #BigData,237,73,2026-08-09T11:15:00,11,310,-0.6,negative
+10890,User81,"Not impressed with the latest deep learning tool, disappointing #DataScience #Spark #OpenAI",417,60,2026-08-28T03:04:00,3,477,-0.6,negative
+10891,User45,"Huge breakthrough in deep learning today, this is fantastic #Python #BigData #DataScience",427,84,2026-08-11T08:47:00,8,511,0.65,positive
+10892,User81,"data engineering keeps getting better every year, so excited #Python",495,119,2026-08-22T00:57:00,0,614,0.65,positive
+10893,User68,AI is transforming the future of deep learning and it's amazing #AI #OpenAI #BigData,481,32,2026-08-02T05:31:00,5,513,0.65,positive
+10894,User80,"neural networks keeps getting better every year, so excited #Spark #DeepLearning",98,138,2026-08-30T13:21:00,13,236,0.65,positive
+10895,User8,New paper published on neural networks #DeepLearning,18,76,2026-08-23T18:46:00,18,94,0.05,positive
+10896,User46,AI is transforming the future of generative AI and it's amazing #BigData,429,4,2026-08-20T22:50:00,22,433,0.65,positive
+10897,User107,Attending a webinar on AI this week #Automation,426,118,2026-08-08T04:14:00,4,544,0.05,positive
+10898,User3,"neural networks keeps getting better every year, so excited #Python #AI #Kafka",34,18,2026-08-16T21:04:00,21,52,0.65,positive
+10899,User35,Reading about machine learning today #BigData #MachineLearning #Python,6,99,2026-08-06T11:58:00,11,105,0.05,positive
+10900,User1,"Just built a great neural networks model, loving the results #DeepLearning #MachineLearning",352,132,2026-08-28T15:40:00,15,484,0.65,positive
+10901,User23,"Just built a great deep learning model, loving the results #AI #MachineLearning #DataScience",166,87,2026-08-11T07:08:00,7,253,0.65,positive
+10902,User90,AI is transforming the future of robotics and it's amazing #BigData #DataScience,155,133,2026-08-10T01:34:00,1,288,0.65,positive
+10903,User40,"Just built a great robotics model, loving the results #BigData #DeepLearning",21,86,2026-08-11T13:41:00,13,107,0.65,positive
+10904,User13,New paper published on machine learning #Automation #BigData,54,79,2026-08-05T03:41:00,3,133,0.05,positive
+10905,User5,This AI pipeline keeps failing and it's frustrating #MachineLearning,369,32,2026-08-10T08:55:00,8,401,-0.6,negative
+10906,User45,New paper published on deep learning #Automation #BigData #OpenAI,76,86,2026-08-13T05:47:00,5,162,0.05,positive
+10907,User110,Worried about AI replacing jobs in robotics #Kafka #OpenAI,154,55,2026-08-03T16:33:00,16,209,-0.6,negative
+10908,User1,This neural networks pipeline keeps failing and it's frustrating #Automation #OpenAI,375,138,2026-08-30T13:29:00,13,513,-0.6,negative
+10909,User82,New paper published on deep learning #MachineLearning,67,5,2026-08-30T22:45:00,22,72,0.05,positive
+10910,User49,"Just built a great automation model, loving the results #OpenAI",419,52,2026-08-17T15:21:00,15,471,0.65,positive
+10911,User47,This generative AI pipeline keeps failing and it's frustrating #DeepLearning #Spark #DataScience,167,82,2026-08-12T23:31:00,23,249,-0.6,negative
+10912,User116,"deep learning keeps getting better every year, so excited #Automation #Python #AI",241,117,2026-08-04T15:38:00,15,358,0.65,positive
+10913,User16,Attending a webinar on robotics this week #MachineLearning,2,81,2026-08-26T13:02:00,13,83,0.05,positive
+10914,User108,"Just built a great AI model, loving the results #Automation #BigData #MachineLearning",293,76,2026-08-09T21:45:00,21,369,0.65,positive
+10915,User26,AI is transforming the future of neural networks and it's amazing #Python,288,97,2026-08-06T06:47:00,6,385,0.65,positive
+10916,User33,"Just built a great generative AI model, loving the results #BigData #MachineLearning",195,105,2026-08-11T15:13:00,15,300,0.65,positive
+10917,User82,"Just built a great automation model, loving the results #DataScience",338,36,2026-08-07T19:54:00,19,374,0.65,positive
+10918,User31,"Not impressed with the latest data engineering tool, disappointing #Python",94,37,2026-08-10T09:53:00,9,131,-0.6,negative
+10919,User76,"Huge breakthrough in deep learning today, this is fantastic #Spark #MachineLearning",475,135,2026-08-03T21:38:00,21,610,0.65,positive
+10920,User120,AI is transforming the future of neural networks and it's amazing #Automation #MachineLearning #OpenAI,301,107,2026-08-11T22:31:00,22,408,0.65,positive
+10921,User117,This data engineering pipeline keeps failing and it's frustrating #BigData #Automation,367,11,2026-08-25T12:21:00,12,378,-0.6,negative
+10922,User117,New paper published on generative AI #DataScience,118,110,2026-08-21T00:04:00,0,228,0.05,positive
+10923,User93,New paper published on generative AI #MachineLearning #Python #BigData,154,111,2026-08-13T05:06:00,5,265,0.05,positive
+10924,User65,Discussion thread on robotics trends #Python #AI #Automation,13,120,2026-08-17T06:25:00,6,133,0.05,positive
+10925,User10,"robotics keeps getting better every year, so excited #MachineLearning #Python",451,43,2026-08-04T09:52:00,9,494,0.65,positive
+10926,User80,"neural networks keeps getting better every year, so excited #OpenAI #Kafka",68,117,2026-08-18T16:20:00,16,185,0.65,positive
+10927,User42,AI is transforming the future of neural networks and it's amazing #Kafka #DataScience,380,105,2026-08-15T12:53:00,12,485,0.65,positive
+10928,User29,Worried about AI replacing jobs in deep learning #DataScience,204,84,2026-08-17T18:55:00,18,288,-0.6,negative
+10929,User89,"Huge breakthrough in deep learning today, this is fantastic #Automation #OpenAI #AI",18,36,2026-08-16T05:15:00,5,54,0.65,positive
+10930,User63,"Not impressed with the latest generative AI tool, disappointing #MachineLearning #Kafka #Spark",145,96,2026-08-30T06:18:00,6,241,-0.6,negative
+10931,User63,Discussion thread on deep learning trends #Kafka,138,45,2026-08-11T03:11:00,3,183,0.05,positive
+10932,User54,"Not impressed with the latest robotics tool, disappointing #DeepLearning",258,65,2026-08-04T10:05:00,10,323,-0.6,negative
+10933,User61,Reading about robotics today #Spark,40,122,2026-08-11T05:05:00,5,162,0.05,positive
+10934,User74,"Just built a great data engineering model, loving the results #DataScience #AI",254,38,2026-08-10T04:01:00,4,292,0.65,positive
+10935,User93,"generative AI keeps getting better every year, so excited #AI #MachineLearning",471,60,2026-08-12T23:45:00,23,531,0.65,positive
+10936,User112,"Not impressed with the latest AI tool, disappointing #MachineLearning #Kafka",325,42,2026-08-12T09:15:00,9,367,-0.6,negative
+10937,User19,New paper published on robotics #OpenAI #Python #DataScience,107,137,2026-08-01T10:22:00,10,244,0.05,positive
+10938,User30,"robotics keeps getting better every year, so excited #Spark",198,65,2026-08-04T03:17:00,3,263,0.65,positive
+10939,User22,"deep learning keeps getting better every year, so excited #MachineLearning #DataScience #DeepLearning",53,80,2026-08-21T12:24:00,12,133,0.65,positive
+10940,User52,"Not impressed with the latest data engineering tool, disappointing #DataScience #Automation",6,123,2026-08-13T17:16:00,17,129,-0.6,negative
+10941,User31,AI is transforming the future of machine learning and it's amazing #DataScience #DeepLearning,24,82,2026-08-11T08:33:00,8,106,0.65,positive
+10942,User105,AI is transforming the future of machine learning and it's amazing #OpenAI #Spark,264,32,2026-08-02T13:25:00,13,296,0.65,positive
+10943,User107,Worried about AI replacing jobs in neural networks #Automation #Python,167,22,2026-08-05T06:23:00,6,189,-0.6,negative
+10944,User82,AI is transforming the future of automation and it's amazing #AI #DeepLearning,284,12,2026-08-28T01:47:00,1,296,0.65,positive
+10945,User63,Discussion thread on deep learning trends #Python,60,54,2026-08-28T06:16:00,6,114,0.05,positive
+10946,User99,"Just built a great data engineering model, loving the results #Automation",439,2,2026-08-29T09:43:00,9,441,0.65,positive
+10947,User111,Reading about automation today #Kafka,469,28,2026-08-10T12:44:00,12,497,0.05,positive
+10948,User78,"AI keeps getting better every year, so excited #OpenAI",100,107,2026-08-09T06:08:00,6,207,0.65,positive
+10949,User84,Reading about deep learning today #MachineLearning,25,20,2026-08-09T02:55:00,2,45,0.05,positive
+10950,User61,Discussion thread on generative AI trends #BigData #OpenAI,493,8,2026-08-17T05:48:00,5,501,0.05,positive
+10951,User48,Worried about AI replacing jobs in robotics #Automation,347,111,2026-08-03T15:11:00,15,458,-0.6,negative
+10952,User61,This neural networks pipeline keeps failing and it's frustrating #BigData #DataScience #AI,6,38,2026-08-27T12:27:00,12,44,-0.6,negative
+10953,User12,"robotics keeps getting better every year, so excited #OpenAI #Python",147,29,2026-08-29T15:51:00,15,176,0.65,positive
+10954,User43,AI is transforming the future of deep learning and it's amazing #DeepLearning #BigData #Python,129,34,2026-08-17T04:20:00,4,163,0.65,positive
+10955,User81,Discussion thread on machine learning trends #Kafka,318,6,2026-08-27T16:42:00,16,324,0.05,positive
+10956,User21,"automation keeps getting better every year, so excited #Automation #Python",193,93,2026-08-14T13:35:00,13,286,0.65,positive
+10957,User33,AI is transforming the future of deep learning and it's amazing #Python #MachineLearning #OpenAI,439,8,2026-08-24T11:44:00,11,447,0.65,positive
+10958,User67,"Huge breakthrough in robotics today, this is fantastic #OpenAI #BigData",180,72,2026-08-01T19:25:00,19,252,0.65,positive
+10959,User26,AI is transforming the future of neural networks and it's amazing #BigData #AI,44,4,2026-08-17T02:18:00,2,48,0.65,positive
+10960,User4,This machine learning pipeline keeps failing and it's frustrating #DeepLearning #DataScience,191,97,2026-08-18T19:28:00,19,288,-0.6,negative
+10961,User67,"Not impressed with the latest generative AI tool, disappointing #OpenAI #AI #Automation",427,4,2026-08-21T13:22:00,13,431,-0.6,negative
+10962,User91,Worried about AI replacing jobs in data engineering #MachineLearning #Automation,429,22,2026-08-09T18:16:00,18,451,-0.6,negative
+10963,User16,"Huge breakthrough in neural networks today, this is fantastic #DataScience #Automation",32,142,2026-08-01T08:09:00,8,174,0.65,positive
+10964,User97,Attending a webinar on neural networks this week #Automation,169,38,2026-08-09T06:27:00,6,207,0.05,positive
+10965,User70,Reading about machine learning today #DeepLearning #DataScience #MachineLearning,193,92,2026-08-27T11:27:00,11,285,0.05,positive
+10966,User70,Worried about AI replacing jobs in data engineering #DataScience #OpenAI,167,65,2026-08-23T10:00:00,10,232,-0.6,negative
+10967,User92,New paper published on generative AI #Automation #Kafka,276,58,2026-08-14T23:28:00,23,334,0.05,positive
+10968,User62,"machine learning keeps getting better every year, so excited #Spark #BigData",497,15,2026-08-13T08:31:00,8,512,0.65,positive
+10969,User20,"machine learning keeps getting better every year, so excited #MachineLearning",445,82,2026-08-23T03:05:00,3,527,0.65,positive
+10970,User90,"Huge breakthrough in data engineering today, this is fantastic #DeepLearning #OpenAI",241,32,2026-08-04T08:11:00,8,273,0.65,positive
+10971,User17,Discussion thread on robotics trends #Automation,196,141,2026-08-23T09:54:00,9,337,0.05,positive
+10972,User48,Discussion thread on machine learning trends #AI #Kafka,81,125,2026-08-30T18:07:00,18,206,0.05,positive
+10973,User107,Discussion thread on automation trends #MachineLearning #DataScience,416,138,2026-08-14T10:04:00,10,554,0.05,positive
+10974,User72,New paper published on neural networks #AI #BigData,39,146,2026-08-17T10:57:00,10,185,0.05,positive
+10975,User7,Attending a webinar on robotics this week #OpenAI #Automation,183,18,2026-08-04T04:14:00,4,201,0.05,positive
+10976,User3,Reading about AI today #Kafka #DeepLearning,479,86,2026-08-16T12:26:00,12,565,0.05,positive
+10977,User10,"Just built a great neural networks model, loving the results #MachineLearning",276,128,2026-08-14T05:26:00,5,404,0.65,positive
+10978,User93,"Huge breakthrough in automation today, this is fantastic #Spark",432,62,2026-08-03T09:31:00,9,494,0.65,positive
+10979,User101,"Just built a great neural networks model, loving the results #BigData #Kafka",444,93,2026-08-24T23:31:00,23,537,0.65,positive
+10980,User10,Discussion thread on machine learning trends #AI,96,93,2026-08-23T09:36:00,9,189,0.05,positive
+10981,User41,Worried about AI replacing jobs in deep learning #Automation,287,131,2026-08-03T19:12:00,19,418,-0.6,negative
+10982,User92,New paper published on data engineering #Spark,96,140,2026-08-17T02:23:00,2,236,0.05,positive
+10983,User62,"Not impressed with the latest machine learning tool, disappointing #OpenAI #DataScience #Spark",439,51,2026-08-15T19:27:00,19,490,-0.6,negative
+10984,User94,AI is transforming the future of robotics and it's amazing #AI,39,148,2026-08-15T21:57:00,21,187,0.65,positive
+10985,User114,Discussion thread on deep learning trends #Spark #MachineLearning,225,140,2026-08-29T16:37:00,16,365,0.05,positive
+10986,User19,"Not impressed with the latest data engineering tool, disappointing #OpenAI #Python",271,129,2026-08-10T08:50:00,8,400,-0.6,negative
+10987,User110,"Huge breakthrough in generative AI today, this is fantastic #AI #Automation",452,11,2026-08-07T06:12:00,6,463,0.65,positive
+10988,User56,New paper published on machine learning #OpenAI #BigData,364,107,2026-08-22T01:44:00,1,471,0.05,positive
+10989,User100,"deep learning keeps getting better every year, so excited #OpenAI",280,89,2026-08-07T00:47:00,0,369,0.65,positive
+10990,User119,"neural networks keeps getting better every year, so excited #Spark",480,76,2026-08-09T06:13:00,6,556,0.65,positive
+10991,User115,New paper published on machine learning #OpenAI #Automation,342,125,2026-08-13T18:51:00,18,467,0.05,positive
+10992,User84,"neural networks keeps getting better every year, so excited #DeepLearning #Python",498,109,2026-08-29T00:47:00,0,607,0.65,positive
+10993,User24,"data engineering keeps getting better every year, so excited #Python",313,46,2026-08-16T21:32:00,21,359,0.65,positive
+10994,User60,Discussion thread on deep learning trends #DeepLearning,73,148,2026-08-09T07:48:00,7,221,0.05,positive
+10995,User98,Reading about generative AI today #Python,336,139,2026-08-28T15:53:00,15,475,0.05,positive
+10996,User10,AI is transforming the future of machine learning and it's amazing #Python #Spark,45,102,2026-08-30T01:52:00,1,147,0.65,positive
+10997,User27,Discussion thread on automation trends #Spark #OpenAI,441,32,2026-08-01T22:45:00,22,473,0.05,positive
+10998,User110,"Just built a great generative AI model, loving the results #Python #DataScience",66,49,2026-08-02T02:48:00,2,115,0.65,positive
+10999,User75,Discussion thread on data engineering trends #Kafka #Spark #BigData,74,140,2026-08-20T08:00:00,8,214,0.05,positive
+11000,User75,Worried about AI replacing jobs in generative AI #Kafka,448,75,2026-08-27T03:43:00,3,523,-0.6,negative
